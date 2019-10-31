@@ -1,1 +1,1 @@
-# storyblok-transtlations
+# storyblok-translations
