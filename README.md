@@ -2,7 +2,7 @@
 
 # app.storyblok.com Translations
 
-We're looking forward to get help on a little something. We've just launched our latest feature: Mutli Admin Interface, introducing German, Portuguese and English as the first three languages available for our Users on app.storyblok.com. With your help, we are able to translate Storyblok in every language possible. 
+We're looking forward to get help on a little something. We've just launched our latest feature: Multi Language Admin Interface; introducing German, Portuguese and English as the first three languages available for our users on app.storyblok.com. With your help, we will be able to translate Storyblok in every language possible!
 
 ## Translation Progress
 
