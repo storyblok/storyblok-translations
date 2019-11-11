@@ -4,6 +4,14 @@
 
 We're looking forward to get help on a little something. We've just launched our latest feature: Multi Language Admin Interface; introducing German, Portuguese and English as the first three languages available for our users on app.storyblok.com. With your help, we will be able to translate Storyblok in every language possible!
 
+## How to contribute
+
+1. Checkout this repository
+2. Copy one of the language JSONs already available (de.js, ...)
+3. Replace the right side of the JSON key/value with the translated version of the string on the left.
+4. Create a Pull Request: `[Translation] {Language} translation created`
+5. Fill in our [Translation Swag Form](https://www.storyblok.com/fs/translation-swag) to get a Storyblok shirt!
+
 ## Translation Progress
 
 - [ ] af - Afrikaans
