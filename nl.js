@@ -897,7 +897,7 @@ export default {
   "It seems that you do not have access to this page.": "Het lijkt er op dat je geen toegang hebt tot deze pagina.",
   "Create a new organization": "Nieuwe organisatie aanmaken",
   "Organisation name": "Naam van organistatie",
-  "Create organization": "Organisatie aanmaken",
+  "Create org": "Organisatie aanmaken",
   "SO Settings": "SO instellingen",
   "Whitelabeling": "Whitelabeling",
   "Add SSO url": "Voeg SSO-url toe",
