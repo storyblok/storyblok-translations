@@ -39,7 +39,7 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] hr - Croatian
 - [ ] cs - Czech
 - [ ] da - Danish
-- [ ] nl - Dutch
+- [x] nl - Dutch
 - [x] en - English
 - [ ] eo - Esperanto
 - [ ] et - Estonian
