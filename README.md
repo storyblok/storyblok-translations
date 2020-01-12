@@ -1,4 +1,4 @@
-![shields.io progress badge (4 of 122 languages translated)](https://img.shields.io/badge/translated-4%20of%20122-%2309b3af?style=for-the-badge)
+![shields.io progress badge (5 of 122 languages translated)](https://img.shields.io/badge/translated-5%20of%20122-%2309b3af?style=for-the-badge)
 
 # app.storyblok.com Translations
 
@@ -115,7 +115,7 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] es - Spanish
 - [ ] sx - Sutu
 - [ ] sw - Swahili
-- [ ] sv - Swedish
+- [x] sv - Swedish
 - [ ] ta - Tamil
 - [ ] tt - Tatar
 - [ ] te - Teluga
