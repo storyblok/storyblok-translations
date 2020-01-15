@@ -1,4 +1,4 @@
-![shields.io progress badge (5 of 122 languages translated)](https://img.shields.io/badge/translated-5%20of%20122-%2309b3af?style=for-the-badge)
+![shields.io progress badge (7 of 122 languages translated)](https://img.shields.io/badge/translated-5%20of%20122-%2309b3af?style=for-the-badge)
 
 # app.storyblok.com Translations
 
@@ -32,7 +32,7 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] ca - Catalan
 - [ ] ch - Chamorro
 - [ ] ce - Chechen
-- [ ] zh - Chinese
+- [x] zh - Chinese
 - [ ] cv - Chuvash
 - [ ] co - Corsican
 - [ ] cr - Cree
@@ -66,7 +66,7 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] iu - Inuktitut
 - [ ] ga - Irish
 - [ ] it - Italian
-- [ ] ja - Japanese
+- [x] ja - Japanese
 - [ ] kn - Kannada
 - [ ] ks - Kashmiri
 - [ ] kk - Kazakh
