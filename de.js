@@ -231,7 +231,7 @@ export default {
   "Headline 5": "Überschrift 5",
   "Paragraph": "Absatz",
   "Help": "Hilfe",
-  "Internal link": "Interne Verknüpfung",
+  "Internal link": "Intern",
   "Show only selected": "Nur ausgewählte anzeigen",
   "more items found": "weitere Elemente gefunden",
   "Invoices": "Rechnungen",
