@@ -974,7 +974,7 @@ export default {
   "Move users to org": "Move users to org",
   "Is content type": "Is content type",
   "Add fields by dragging them to the tab.": "Add fields by dragging them to the tab.",
-  "Drag and drop the field to the tab name to add it here. All fields that are not placed in custom tabs will be visible in the general tab. To remove the general tab: "Drag and drop the field to the tab name to add it here. All fields that are not placed in custom tabs will be visible in the general tab. To remove the general tab place all fields in custom tabs.": place all fields in custom tabs.",
+  "Drag and drop the field to the tab name to add it here. All fields that are not placed in custom tabs will be visible in the general tab. To remove the general tab place all fields in custom tabs.": "Drag and drop the field to the tab name to add it here. All fields that are not placed in custom tabs will be visible in the general tab. To remove the general tab place all fields in custom tabs.",
   "Manage tab": "Manage tab",
   "Rename": "Rename",
   "Move to right": "Move to right",
