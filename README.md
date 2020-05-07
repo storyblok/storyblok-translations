@@ -1,4 +1,4 @@
-![shields.io progress badge (7 of 122 languages translated)](https://img.shields.io/badge/translated-5%20of%20122-%2309b3af?style=for-the-badge)
+![shields.io progress badge (9 of 122 languages translated)](https://img.shields.io/badge/translated-9%20of%20122-%2309b3af?style=for-the-badge)
 
 # app.storyblok.com Translations
 
