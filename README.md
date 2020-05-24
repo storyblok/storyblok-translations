@@ -7,7 +7,7 @@ We're looking forward to get help on a little something. We've just launched our
 ## How to contribute
 
 1. Checkout this repository
-2. Copy one of the language JSONs already available (de.js, ...)
+2. Copy one of the language JSONs already available (de.json, ...)
 3. Replace the right side of the JSON key/value with the translated version of the string on the left.
 4. Create a Pull Request: `[Translation] {Language} translation created`
 5. Fill in our [Translation Swag Form](https://www.storyblok.com/fs/translation-swag) to get a Storyblok shirt!
@@ -93,14 +93,14 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] or - Oriya
 - [ ] om - Oromo
 - [ ] fa_ir - Persian/Iran
-- [ ] pl - Polish
+- [x] pl - Polish
 - [ ] pt - Portuguese
 - [x] pt_br - Portuguese (Brazil)
 - [ ] pa - Punjabi
 - [ ] qu - Quechua
 - [ ] rm - Rhaeto_Romanic
 - [ ] ro - Romanian
-- [ ] ru - Russian
+- [x] ru - Russian
 - [ ] sz - Sami (Lappish)
 - [ ] sg - Sango
 - [ ] sa - Sanskrit

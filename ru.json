@@ -1,4 +1,4 @@
-export default {
+{
   "Dashboard": "Панель управления",
   "Back to spaces": "Вернуться к областям",
   "Content": "Содержание",
@@ -1126,7 +1126,6 @@ export default {
   "Add branches the user should have the right to deploy to (acts as whitelist). If no item is selected the user has rights to deploy to all branches.": "Добавить ветки, на которые пользователь должен иметь право развертываться (действует как белый список). Если элемент не выбран, у пользователя есть права на развертывание во всех ветках.",
   "Component/content-type permissions": "Разрешения по компонентам/типам контента",
   "Add the components or content types the user should not be able to select (acts as blacklist).": "Добавьте компоненты или типы контента, которые пользователь не должен выбирать (действует как черный список).",
-  "It seams that you do not have access to any space yet. Please contact the administrator of your organization to get added as a collaborator.": "Похоже, у вас еще нет доступа ни к одной области. Свяжитесь с администратором вашей организации, чтобы он добавил вас как работника.",
   "Start by selecting a space in the sidebar.": "Начните с выбора области в левом меню.",
   "Details": "Детали",
   "Your current plan is ": "Ваш текущий план ",

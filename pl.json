@@ -1,4 +1,4 @@
-export default {
+{
   "Dashboard": "Kokpit",
   "Back to spaces": "Wróć do przestrzeni",
   "Content": "Treść",
@@ -1126,7 +1126,6 @@ export default {
   "Add branches the user should have the right to deploy to (acts as whitelist). If no item is selected the user has rights to deploy to all branches.": "Dodaj gałęzie, które użytkownik powinien mieć prawo wdrożyć (działa jako biała lista). Jeśli żaden element nie zostanie wybrany, użytkownik ma uprawnienia do wdrożenia dla wszystkich gałęzi.",
   "Component/content-type permissions": "Uprawnienia Komponentu/typu treści",
   "Add the components or content types the user should not be able to select (acts as blacklist).": "Dodaj komponenty lub typy treści, których użytkownik nie powinien mieć możliwości wyboru (działa jak czarna lista).",
-  "It seams that you do not have access to any space yet. Please contact the administrator of your organization to get added as a collaborator.": "Wygląda na to, że nie masz jeszcze dostępu do żadnej przestrzeni. Skontaktuj się z administratorem swojej organizacji i poproś o dodanie Cie jako współpracownika",
   "Start by selecting a space in the sidebar.": "Rozpocznij poprzez wybranie przestrzeni z paska bocznego",
   "Details": "Szczególy",
   "Your current plan is ": "Twój aktualny plan to ",
