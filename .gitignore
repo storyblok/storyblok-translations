@@ -1,0 +1,6 @@
+# Editor specific
+.idea
+.vscode
+*.suo
+*.ntvs*
+*.njsproj
