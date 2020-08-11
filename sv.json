@@ -913,5 +913,7 @@
   "Profile picture (optional)": "Profilbild (valfritt)",
   "Are you sure you want to delete this item?": "Är du säker på att du vill radera detta objekt?",
   "Help other collaborators to identify you better by providing your name and a profile picture.": "Hjälp andra medarbetare att identifiera dig bättre genom att tillhandahålla ditt namn och en profilbild.",
-  "Are you sure you want to delete this item(s)?": "Är du säker på att du vill radera detta/dessa objekt?"
+  "Are you sure you want to delete this item(s)?": "Är du säker på att du vill radera detta/dessa objekt?",
+  "seat": "stol",
+  "seats": "stol"
 }

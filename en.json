@@ -1178,5 +1178,7 @@
   "Please save the schema of this component first.": "Please save the schema of this component first.",
   "Character limit reached": "Character limit reached",
   "characters remaining": "characters remaining",
-  "characters over limit": "characters over limit"
+  "characters over limit": "characters over limit",
+  "seat": "Seat",
+  "seats": "Seats"
 }

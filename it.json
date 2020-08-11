@@ -913,5 +913,7 @@
   "Profile picture (optional)": "Foto profilo (opzionale)",
   "Are you sure you want to delete this item?": "Sei sicuro di voler eliminare questo articolo?",
   "Help other collaborators to identify you better by providing your name and a profile picture.": "Aiuta altri collaboratori a riconoscerti fornendo il tuo nome e una foto profilo.",
-  "Are you sure you want to delete this item(s)?": "Sei sicuro di voler eliminare questo(i) elemento(i)?"
+  "Are you sure you want to delete this item(s)?": "Sei sicuro di voler eliminare questo(i) elemento(i)?",
+  "seat": "posto",
+  "seats":  "posti"
 }

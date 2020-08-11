@@ -1178,5 +1178,7 @@
   "Please save the schema of this component first.": "Сперва сохраните схему этого компонента.",
   "Character limit reached": "Достигнут лимит символов",
   "characters remaining": "осталось символов",
-  "characters over limit": "символов превышают лимит"
+  "characters over limit": "символов превышают лимит",
+  "seat": "место",
+  "seats": "места"
 }
