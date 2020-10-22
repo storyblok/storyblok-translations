@@ -78,7 +78,7 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] lv - Latvian
 - [ ] lt - Lithuanian
 - [ ] lb - Luxembourgish
-- [ ] mk - FYRO Macedonian
+- [ ] mk - Macedonian
 - [ ] ms - Malay
 - [ ] ml - Malayalam
 - [ ] mt - Maltese
