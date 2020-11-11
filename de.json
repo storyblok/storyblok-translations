@@ -500,7 +500,7 @@
   "Entered plan ids will be validated after pressing subscribe.": "Eingegebene Abonnement-IDs werden nach Drücken der Abonnieren-Schaltfläche geprüft.",
   "Coupon code": "Coupon-Code",
   "Entered coupon codes will be validated and applied after pressing subscribe.": "Eingegebene Coupon-Codes werden nach dDrücken der Abonnieren-Schaltfläche geprüft und angewendet.",
-  "Select seats": "Anzahl der Benutzer wählen",
+  "Select seats": "Anzahl der Sitze wählen",
   "Confirm subscription": "Abonnement bestätigen",
   "Min": "Minimum",
   "Max": "Maximum",
@@ -915,5 +915,7 @@
   "Profile picture (optional)": "Profilbild (optional)",
   "Are you sure you want to delete this item?": "Bist du sicher, dass du dieses Element löschen willst?",
   "Help other collaborators to identify you better by providing your name and a profile picture.": "Hilf anderen Kollaborateuren dich leichter zu identifizieren, indem du deinen Namen und ein Profilbild angibst.",
-  "Are you sure you want to delete this item(s)?": "Bist du sicher, dass du diese(s) Element(s) löschen willst?"
+  "Are you sure you want to delete this item(s)?": "Bist du sicher, dass du diese(s) Element(s) löschen willst?",
+  "seat": "Sitz",
+  "seats": "Sitze"
 }

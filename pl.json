@@ -1178,5 +1178,7 @@
   "Please save the schema of this component first.": "Najpierw zapisz schemat tego komponentu.",
   "Character limit reached": "Osiągnięto limit znaków",
   "characters remaining": "znaków do wykorzystania",
-  "characters over limit": "znaków ponad limit"
+  "characters over limit": "znaków ponad limit",
+  "seat": "siedzenie",
+  "seats": "siedzenia"
 }

@@ -913,5 +913,7 @@
   "Profile picture (optional)": "プロフィール写真（オプション）",
   "Are you sure you want to delete this item?": "この項目を削除してもよろしいですか？",
   "Help other collaborators to identify you better by providing your name and a profile picture.": "あなたの名前とプロフィール写真を使用することで、他の共同作業者があなたを識別しやすくなります。",
-  "Are you sure you want to delete this item(s)?": "この項目を削除してもよろしいですか？"
+  "Are you sure you want to delete this item(s)?": "この項目を削除してもよろしいですか？",
+  "seat": "シート",
+  "seats": "座席"
 }

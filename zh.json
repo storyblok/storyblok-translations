@@ -913,5 +913,7 @@
   "Profile picture (optional)": "个人资料图片（可选）",
   "Are you sure you want to delete this item?": "您是否确定要删除此内容项？",
   "Help other collaborators to identify you better by providing your name and a profile picture.": "提供您的名称和个人资料图片可以帮助其他合作者更好地认识您。",
-  "Are you sure you want to delete this item(s)?": "您是否确定要删除此项？"
+  "Are you sure you want to delete this item(s)?": "您是否确定要删除此项？",
+  "seat": "用户",
+  "seats": "用户"
 }
