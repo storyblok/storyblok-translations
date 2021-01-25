@@ -955,7 +955,7 @@
   "Attention! The deletion of this app will also delete all installations.": "Attention! The deletion of this app will also delete all installations.",
   "Delete this app": "Delete this app",
   "Uninstall": "Uninstall",
-  "Requires plan": "Requires plan",
+  "Requires plan": "Minimum required plan: ",
   "Try out in trial mode": "Try out in trial mode",
   "Approve app": "Approve app",
   "Website": "Website",
