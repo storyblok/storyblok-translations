@@ -136,3 +136,8 @@ We're looking forward to get help on a little something. We've just launched our
 - [ ] xh - Xhosa
 - [ ] ji - Yiddish
 - [ ] zu - Zulu
+
+
+## Translation for Storyblok V2
+
+For the version 2 interface, translation files with the names `-2.json` are used.
