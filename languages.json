@@ -1,5 +1,5 @@
 {
-  "v1": [
+  "languages":[ 
     {"code": "en", "label": "English"},
     {"code": "pt-br", "label": "Portuguese (Brazilian)"},
     {"code": "de", "label": "German"},
@@ -12,11 +12,5 @@
     {"code": "it", "label": "Italian"},
     {"code": "ru", "label": "Russian"},
     {"code": "pl", "label": "Polish"}
-  ],
-  "v2": [
-    {"code": "en", "label": "English"},
-    {"code": "de", "label": "German"},
-    {"code": "es", "label": "Spanish"},
-    {"code": "pt-br", "label": "Portuguese (Brazilian)"}
   ]
 }
