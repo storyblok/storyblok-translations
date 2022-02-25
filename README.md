@@ -9,8 +9,9 @@ We're looking forward to get help on a little something. We've just launched our
 1. Checkout this repository
 2. Copy one of the language JSONs already available (de.json, ...)
 3. Replace the right side of the JSON key/value with the translated version of the string on the left.
-4. Create a Pull Request: `[Translation] {Language} translation created`
-5. Fill in our [Translation Swag Form](https://www.storyblok.com/fs/translation-swag) to get a Storyblok shirt!
+4. In order for your added translation file to become active, it will need to be added in the `languages.json` file. 
+5. Create a Pull Request: `[Translation] {Language} translation created`
+6. Fill in our [Translation Swag Form](https://www.storyblok.com/fs/translation-swag) to get a Storyblok shirt!
 
 ## Translation Progress
 
@@ -140,4 +141,4 @@ We're looking forward to get help on a little something. We've just launched our
 
 ## Translation for Storyblok V2
 
-For the version 2 interface, translation files with the names `-2.json` are used.
+For the version 2 interface, translation files are located in the `v2` folder. 
