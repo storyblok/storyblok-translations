@@ -54,5 +54,7 @@
   "Datasource entry saved": "Datenquelleneintrag gespeichert",
   "Workflow changed": "Workflow geändert",
   "Branch deployed": "Pipeline bereitgestellt",
-  "Release merged": "Freigabe zusammengeführt"
+  "Release merged": "Freigabe zusammengeführt",
+  "Languages": "Sprachen",
+  "Pipeline deployed": "Pipeline ausgeführt"
 }
