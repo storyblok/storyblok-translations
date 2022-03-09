@@ -1,8 +1,19 @@
 {
   "languages":[ 
-    {"code": "en", "label": "English"},
     {"code": "de", "label": "German"},
+    {"code": "el", "label": "Greek"},
+    {"code": "en", "label": "English"},
     {"code": "es", "label": "Spanish"},
-    {"code": "pt-br", "label": "Portuguese (Brazilian)"}
+    {"code": "fr", "label": "French"},
+    {"code": "id", "label": "Indonesian"},
+    {"code": "it", "label": "Italian"},
+    {"code": "ja", "label": "Japanese"},
+    {"code": "nl", "label": "Dutch"},
+    {"code": "pl", "label": "Polish"},
+    {"code": "pt", "label": "Portuguese"},
+    {"code": "pt-br", "label": "Portuguese (Brazilian)"},
+    {"code": "ru", "label": "Russian"},
+    {"code": "sv", "label": "Swedish"},
+    {"code": "zh", "label": "Chinese"}
   ]
 }
