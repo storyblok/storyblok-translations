@@ -966,5 +966,6 @@
   "Allow Editor change": "Allow Editor change",
   "Allow Admin change": "Allow Admin change",
   "Edit workflow button": "Edit workflow button",
-  "Delete workflow button": "Delete workflow button"
+  "Delete workflow button": "Delete workflow button",
+  "Used in: %{count} stories": "Never used | Used in: %{count} story | Used in: %{count} stories"
 }
