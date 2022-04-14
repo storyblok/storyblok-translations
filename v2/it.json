@@ -993,5 +993,10 @@
   "You don’t have any deleted content": "",
   "This folder is empty": "",
   "This pipeline has never been deployed": "",
-  "No content changes": ""
+  "No content changes": "",
+  "You will be able to see the private asset after you save.": "",
+  "0 days left": "",
+  "1 day left": "",
+  " days left": "",
+  "Change background color of image preview": ""
 }
