@@ -1418,5 +1418,17 @@
   "Switch to {name}": "Zu {name} wechseln",
   "The subscription to this plan did not work at the moment.": "Das Abonnement für diesen Plan funktioniert derzeit nicht.",
   "The subscription could not be updated at this moment.": "Das Abonnement konnte in diesem Moment nicht aktualisiert werden.",
-  "You are not authorized to view the billing information.": "Sie sind nicht berechtigt, die Rechnungsdaten einzusehen."
+  "You are not authorized to view the billing information.": "Sie sind nicht berechtigt, die Rechnungsdaten einzusehen.",
+  "Save as new": "",
+  "Start the discussion by leaving a comment on a field or block in your content.": "",
+  "This Asset is not being used.": "",
+  "Used in: %{count} stories": "",
+  "by": "",
+  "Open image editor": "",
+  "Image Editor": "",
+  "Crop, rotate, resize, filter, annotate, adjust colors, and much more…": "",
+  "scheduled for {publishAt}": "",
+  "Private asset: not available to the public and can only be accessed via an access token. Publish date {publishDate}.": "",
+  "Used in:": "",
+  "stories": ""
 }

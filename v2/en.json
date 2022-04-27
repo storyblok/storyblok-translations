@@ -1419,5 +1419,16 @@
   "Switch to {name}": "Switch to {name}",
   "The subscription to this plan did not work at the moment.": "The subscription to this plan did not work at the moment.",
   "The subscription could not be updated at this moment.": "The subscription could not be updated at this moment.",
-  "You are not authorized to view the billing information.": "You are not authorized to view the billing information."
+  "You are not authorized to view the billing information.": "You are not authorized to view the billing information.",
+  "Save as new": "Save as new",
+  "Start the discussion by leaving a comment on a field or block in your content.": "Start the discussion by leaving a comment on a field or block in your content.",
+  "This Asset is not being used.": "This Asset is not being used.",
+  "by": "by",
+  "Open image editor": "Open image editor",
+  "Image Editor": "Image Editor",
+  "Crop, rotate, resize, filter, annotate, adjust colors, and much more…": "Crop, rotate, resize, filter, annotate, adjust colors, and much more…",
+  "scheduled for {publishAt}": "scheduled for {publishAt}",
+  "Private asset: not available to the public and can only be accessed via an access token. Publish date {publishDate}.": "Private asset: not available to the public and can only be accessed via an access token. Publish date {publishDate}.",
+  "Used in:": "Used in:",
+  "stories": "stories"
 }
