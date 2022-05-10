@@ -1393,7 +1393,7 @@
   "team member seats": "チームメンバーシート",
   "additional seats will be automatically charged by": "によって自動的に課金されます。",
   "per seat / month": "1席あたり/月",
-  "Do you really want to switch to the {plan} plan?": "本当に｛プラン｝に切り替えたいのですか？",
+  "Do you really want to switch to the {plan} plan?": "{plan}プランに切り替えますか？",
   "Organisation": "組織",
   "of": "の",
   "14 days trial period ends on ": "14日間の試用期間終了日",
