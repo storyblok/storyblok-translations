@@ -1571,5 +1571,12 @@
   "Lastname": "",
   "This will keep this user from accessing organization spaces": "",
   "Recently updated spaces": "",
-  "View All": ""
+  "View All": "",
+  "It seems you do not have any field-types yet": "",
+  "A data source is simply a collection of key-value pairs (KVP). <br>Key-value pairs can be used for a single choice, multiple choice options and as well directly through our API to use them for multi-language labels, categories, or anything similar. Learn more": "",
+  "No logs found": "",
+  "Try adjusting your search or filter to find what you’re looking for.": "",
+  "It seems you do not have any apps yet": "",
+  "It seems you do not have any spaces yet": "",
+  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": ""
 }
