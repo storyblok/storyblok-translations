@@ -1744,5 +1744,21 @@
   "This color is not valid. Please insert a valid Hex code.": "This color is not valid. Please insert a valid Hex code.",
   "Users/Roles who can change the stage": "Users/Roles who can change the stage",
   "to the next available stage": "to the next available stage",
-  "Back to {parentPage}": "Back to {parentPage}"
+  "Back to {parentPage}": "Back to {parentPage}",
+  "Plan: {name}": "Plan: {name}",
+  "{number} block(s) successfully {actionType}!": "{number} block(s) successfully {actionType}!",
+  "No search results in '{parent}'": "No search results in '{parent}'",
+  "Edited {date} by {author}": "Edited {date} by {author}",
+  "Tip: use {command} to save": "Tip: use {command} to save",
+  "Delete '{name}' space": "Delete '{name}' space",
+  "{users} of {maxCollaborators} {seatsLabel}": "{users} of {maxCollaborators} {seatsLabel}",
+  "* Additional seats will be automatically charged {currency}{price} per seat / {interval}": "* Additional seats will be automatically charged {currency}{price} per seat / {interval}",
+  "{price} per month": "{price} per month",
+  "Users/Roles who can change the stage {workflowName} to the next available stage": "Users/Roles who can change the stage {workflowName} to the next available stage",
+  "To open the app with the development urls append ?dev=1 to the url. Example: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1": "To open the app with the development urls append ?dev=1 to the url. Example: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1",
+  "Minimum 1000px": "Minimum 1000px",
+  "File format: png, jpg": "File format: png, jpg",
+  "Square 1024 x 1024px": "Square 1024 x 1024px",
+  "File format: png, jpg or svg": "File format: png, jpg or svg",
+  "File format: svg": "File format: svg"
 }

@@ -1744,5 +1744,21 @@
   "This color is not valid. Please insert a valid Hex code.": "",
   "Users/Roles who can change the stage": "",
   "to the next available stage": "",
-  "Back to {parentPage}": ""
+  "Back to {parentPage}": "",
+  "Plan: {name}": "",
+  "{number} block(s) successfully {actionType}!": "",
+  "No search results in '{parent}'": "",
+  "Edited {date} by {author}": "",
+  "Tip: use {command} to save": "",
+  "Delete '{name}' space": "",
+  "{users} of {maxCollaborators} {seatsLabel}": "",
+  "* Additional seats will be automatically charged {currency}{price} per seat / {interval}": "",
+  "{price} per month": "",
+  "Users/Roles who can change the stage {workflowName} to the next available stage": "",
+  "To open the app with the development urls append ?dev=1 to the url. Example: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1": "",
+  "Minimum 1000px": "",
+  "File format: png, jpg": "",
+  "Square 1024 x 1024px": "",
+  "File format: png, jpg or svg": "",
+  "File format: svg": ""
 }
