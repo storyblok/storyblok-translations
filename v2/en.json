@@ -1859,5 +1859,8 @@
   "Are you sure you want to restore {asset}? | Are you sure you want to restore these assets?": "Are you sure you want to restore {asset}? | Are you sure you want to restore these assets?",
   "Permanently delete {number} item? | Permanently delete {number} items?": "Permanently delete {number} item? | Permanently delete {number} items?",
   "Are you sure you want to delete the asset '{name}'?": "Are you sure you want to delete the asset '{name}'?",
-  "{n} item selected | {n} items selected": "{n} item selected | {n} items selected"
+  "{n} item selected | {n} items selected": "{n} item selected | {n} items selected",
+  "Name (e.g German)": "Name (e.g German)",
+  "Value (e.g de-at)": "Value (e.g de-at)",
+  "Delete datasource": "Delete datasource"
 }
