@@ -1889,5 +1889,14 @@
   "Please use an ID from a different Space": "Please use an ID from a different Space",
   "Parent Space ID": "Parent Space ID",
   "e.g. 123": "e.g. 123",
-  "friend@example.com, otherfriend@example.com, ...": "friend@example.com, otherfriend@example.com, ..."
+  "friend@example.com, otherfriend@example.com, ...": "friend@example.com, otherfriend@example.com, ...",
+  "per {interval}": "per {interval}",
+  "For developers, freelancers and small businesses": "For developers, freelancers and small businesses",
+  "Free forever, 1 seat included *": "Free forever, 1 seat included *",
+  "Entry": "Entry",
+  "For starting businesses scaling their content.": "For starting businesses scaling their content.",
+  "Includes 5 team member seats *": "Includes 5 team member seats *",
+  "Teams": "Teams",
+  "For established teams and corporates elevating their content.": "For established teams and corporates elevating their content.",
+  "Includes 10 team member seats *": "Includes 10 team member seats *"
 }
