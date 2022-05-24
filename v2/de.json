@@ -1900,5 +1900,12 @@
   "Includes 5 team member seats *": "",
   "Teams": "",
   "For established teams and corporates elevating their content.": "",
-  "Includes 10 team member seats *": ""
+  "Includes 10 team member seats *": "",
+  "{num} user | {num} users": "",
+  "Add the blocks or content types the user should not be able to select (acts as a block list). If no item is selected the user has rights to add all blocks or content types": "",
+  "Add languages the user should have access to (acts as allow list). If no item is selected the user has rights to edit all content.": "",
+  "Add pipelines the user should have the right to deploy to (acts as allow list). If no item is selected the user has rights to deploy to all pipelines.": "",
+  "Add folders or content items the user should have access to (acts as allow list). If no item is selected the user has rights to edit all content.": "",
+  "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "",
+  "Yes, discard changes": "Ja, Änderungen verwerfen"
 }
