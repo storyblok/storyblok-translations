@@ -1905,5 +1905,10 @@
   "Add pipelines the user should have the right to deploy to (acts as allow list). If no item is selected the user has rights to deploy to all pipelines.": "Add pipelines the user should have the right to deploy to (acts as allow list). If no item is selected the user has rights to deploy to all pipelines.",
   "Add folders or content items the user should have access to (acts as allow list). If no item is selected the user has rights to edit all content.": "Add folders or content items the user should have access to (acts as allow list). If no item is selected the user has rights to edit all content.",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "There are some changes in the story which are not saved. Are you sure you want to discard the changes?",
-  "Yes, discard changes": "Yes, discard changes"
+  "Yes, discard changes": "Yes, discard changes",
+  "No results": "No results",
+  "Show all": "Show all",
+  "Show chosen": "Show chosen",
+  "Clear selected": "Clear selected",
+  "Choose one or more...": "Choose one or more..."
 }
