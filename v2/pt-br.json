@@ -1899,7 +1899,7 @@
   "Teams": "",
   "For established teams and corporates elevating their content.": "",
   "Includes 10 team member seats *": "",
-  "{num} user | {num} users": "",
+  "{num} user | {num} users": "{num} usuário | {num} usuários",
   "Add the blocks or content types the user should not be able to select (acts as a block list). If no item is selected the user has rights to add all blocks or content types": "",
   "Add languages the user should have access to (acts as allow list). If no item is selected the user has rights to edit all content.": "",
   "Add pipelines the user should have the right to deploy to (acts as allow list). If no item is selected the user has rights to deploy to all pipelines.": "",
