@@ -2040,5 +2040,6 @@
   "Built for Enterprises with scalability, security and an enterprise-grade feature set in mind": "Built for Enterprises with scalability, security and an enterprise-grade feature set in mind",
   "Backup & Restore": "Backup & Restore",
   "Background task running{label}": "Background task running{label}",
-  "Disable maintenance mode": "Disable maintenance mode"
+  "Disable maintenance mode": "Disable maintenance mode",
+  "Background task running {label}": "Background task running {label}"
 }
