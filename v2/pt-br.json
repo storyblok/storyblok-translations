@@ -1763,7 +1763,7 @@
   "File format: svg": "",
   "A data source is simply a collection of key-value pairs (KVP). <br>Key-value pairs can be used for a single choice, multiple choice options and as well directly through our API to use them for multi-language labels, categories, or anything similar.": "",
   "We couldn’t find a datasource with the name {name}": "",
-  "{num} preset | {num} presets": "",
+  "{num} preset | {num} presets": "{num} predefinir | {num} predefinições",
   "{num} block deleted! | {num} blocks deleted!": "",
   "Tip: use Ctrl + S to save": "",
   "Edit token": "",
@@ -2213,5 +2213,6 @@
   "For businesses with highest security & scalability standards": "",
   "Contact us today to learn how Storyblok can provide an ROI for your business": "",
   "Enterprise": "",
-  "Enterprise Plus": ""
+  "Enterprise Plus": "",
+  "Presets are blocks filled with the content you currently have in the selected block. The saved presets are shown for all users at the selection of new blocks.": ""
 }
