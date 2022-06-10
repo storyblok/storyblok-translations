@@ -2191,5 +2191,6 @@
   "Misc": "",
   "{tabCaption}": "",
   "Define your business address and company information. Fields marked with * are required.": "",
-  "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": ""
+  "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "",
+  "Please enter a valid password": ""
 }
