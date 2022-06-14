@@ -753,7 +753,6 @@
   "Duplicating block": "複製ブロック（コンポーネント）",
   "Save folder name": "保存フォルダ名",
   "Group": "グループ",
-  "Actions": "アクション",
   "Move to Group": "グループへ移動",
   "Universal": "ユニバーサル",
   "Content Type": "コンテンツの種類",
@@ -1029,7 +1028,6 @@
   "API Requests": "APIリクエスト",
   "You are not allowed to access this story. Please login with an account that has access.": "この記事へのアクセスは許可されていません。アクセス可能なアカウントでログインしてください。",
   "Browse content": "コンテンツを見る",
-  "This folders is empty": "このフォルダーは空です",
   "Once you delete": "一度削除すると",
   "Search for content items": "コンテンツアイテムの検索",
   "Search in \"{name}\"": "\"{name}\"で検索",
@@ -2192,5 +2190,10 @@
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "",
   "Yes, discard changes": "",
-  "Please enter a valid password": ""
+  "Please enter a valid password": "",
+  "required": "",
+  "invalid email": "",
+  "invalid": "",
+  "under the minimum of {num}": "",
+  "over the maximum of {num}": ""
 }

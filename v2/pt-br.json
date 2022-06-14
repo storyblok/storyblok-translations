@@ -753,7 +753,6 @@
   "Duplicating block": "Duplicação de blocos",
   "Save folder name": "Salvar nome da pasta",
   "Group": "Grupo",
-  "Actions": "Ações",
   "Move to Group": "Mudança para o Grupo",
   "Universal": "Universal",
   "Content Type": "Tipo de conteúdo",
@@ -1029,7 +1028,6 @@
   "API Requests": "Solicitações de API",
   "You are not allowed to access this story. Please login with an account that has access.": "Você não está autorizado a acessar esta história. Por favor, faça o login com uma conta que tenha acesso.",
   "Browse content": "Procurar conteúdo",
-  "This folders is empty": "Esta pasta está vazia",
   "Once you delete": "Uma vez que você apague",
   "Search for content items": "Busca de itens de conteúdo",
   "Search in \"{name}\"": "Pesquisar em \"{name}\".",
@@ -2192,5 +2190,10 @@
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "",
   "Yes, discard changes": "",
-  "Please enter a valid password": ""
+  "Please enter a valid password": "",
+  "required": "",
+  "invalid email": "",
+  "invalid": "",
+  "under the minimum of {num}": "",
+  "over the maximum of {num}": ""
 }

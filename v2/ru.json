@@ -753,7 +753,6 @@
   "Duplicating block": "Дублирующий блок",
   "Save folder name": "Сохранить имя папки",
   "Group": "Группа",
-  "Actions": "Действия",
   "Move to Group": "Переместить в группу",
   "Universal": "Универсальный",
   "Content Type": "Тип содержимого",
@@ -1029,7 +1028,6 @@
   "API Requests": "",
   "You are not allowed to access this story. Please login with an account that has access.": "",
   "Browse content": "",
-  "This folders is empty": "",
   "Once you delete": "",
   "Search for content items": "",
   "Search in \"{name}\"": "",
@@ -2192,5 +2190,10 @@
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "",
   "Yes, discard changes": "",
-  "Please enter a valid password": ""
+  "Please enter a valid password": "",
+  "required": "",
+  "invalid email": "",
+  "invalid": "",
+  "under the minimum of {num}": "",
+  "over the maximum of {num}": ""
 }

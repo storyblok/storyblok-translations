@@ -753,7 +753,6 @@
   "Duplicating block": "复制块",
   "Save folder name": "保存文件夹名称",
   "Group": "集团",
-  "Actions": "行动",
   "Move to Group": "转移到集团",
   "Universal": "通用",
   "Content Type": "内容类型",
@@ -1029,7 +1028,6 @@
   "API Requests": "",
   "You are not allowed to access this story. Please login with an account that has access.": "",
   "Browse content": "",
-  "This folders is empty": "",
   "Once you delete": "",
   "Search for content items": "",
   "Search in \"{name}\"": "",
@@ -2192,5 +2190,10 @@
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "",
   "Yes, discard changes": "",
-  "Please enter a valid password": ""
+  "Please enter a valid password": "",
+  "required": "",
+  "invalid email": "",
+  "invalid": "",
+  "under the minimum of {num}": "",
+  "over the maximum of {num}": ""
 }
