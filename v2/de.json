@@ -753,7 +753,6 @@
   "Duplicating block": "Block duplizieren",
   "Save folder name": "Ordnername speichern",
   "Group": "Gruppe",
-  "Actions": "Aktionen",
   "Move to Group": "Zur Gruppe verschieben",
   "Universal": "Universal",
   "Content Type": "Content Typ",
@@ -1029,7 +1028,6 @@
   "API Requests": "API-Anfragen",
   "You are not allowed to access this story. Please login with an account that has access.": "Sie sind nicht berechtigt, auf diese Story zuzugreifen. Bitte melden Sie sich mit einem Konto an, das Zugang hat.",
   "Browse content": "Inhalt durchsuchen",
-  "This folders is empty": "Dieser Ordner ist leer",
   "Once you delete": "Sobald Sie löschen",
   "Search for content items": "Suche nach Contentelementen",
   "Search in \"{name}\"": "Suche in \"{name}\"",
@@ -1500,7 +1498,7 @@
   "Please enter a valid name/n": "Bitte geben Sie einen gültigen Namen/n",
   "Please select an app type/n": "Bitte wählen Sie einen App typ/n",
   "Please enter a valid slug": "Bitte geben Sie einen gültigen Slug ein",
-  "Edited {date}": "Bearbeitet {Datum}",
+  "Edited {date}": "Bearbeitet {date}",
   "Fieldtype": "Feldtyp",
   "Select the Field-types that you would like to include in this app.": "Wählen Sie die Feldtypen aus, die Sie in diese App aufnehmen möchten.",
   "Do you really want to delete this app?": "Wollen Sie diese App wirklich löschen?",
@@ -2192,5 +2190,10 @@
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "Es gab ein Problem beim Laden des Support-Chats. Dies könnte darauf zurückzuführen sein, dass einige Browser-Plugins aktiv sind, die den Chat blockieren.",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "Es gibt einige Änderungen in der Story, die nicht gespeichert werden. Sind Sie sicher, dass Sie die Änderungen verwerfen wollen?",
   "Yes, discard changes": "Ja, Änderungen verwerfen",
-  "Please enter a valid password": "Bitte geben Sie ein gültiges Passwort ein"
+  "Please enter a valid password": "Bitte geben Sie ein gültiges Passwort ein",
+  "required": "",
+  "invalid email": "",
+  "invalid": "",
+  "under the minimum of {num}": "",
+  "over the maximum of {num}": ""
 }

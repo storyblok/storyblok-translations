@@ -753,7 +753,6 @@
   "Duplicating block": "Blocco di duplicazione",
   "Save folder name": "Salva il nome della cartella",
   "Group": "Gruppo",
-  "Actions": "Azioni",
   "Move to Group": "Sposta nel gruppo",
   "Universal": "Universale",
   "Content Type": "Tipo di contenuto",
@@ -1891,7 +1890,7 @@
   "Background task running {label}": "",
   "Open story actions": "Aprire le azioni della storia",
   "See Content Errors list": "Vedere l'elenco degli errori di contenuto",
-  "Sorry, there are missing values.": "Spiacente, mancano dei valori.",
+  "Sorry, there are missing values.": "Ci dispiace, ma ci sono dei valori mancanti",
   "Close Content Errors list": "Chiudere l'elenco degli errori di contenuto",
   "Toggle Block Navigator": "Alterna il navigatore a blocchi",
   "Hide all": "Nascondi tutto",
@@ -2188,8 +2187,13 @@
   "Please check if the password and password confirmation match and that all the password requirements were filled.": "Verificare che la password e la conferma della password corrispondano e che tutti i requisiti della password siano stati soddisfatti.",
   "Configuration": "Configurazione",
   "Misc": "Varie",
-  "{tabCaption}": "",
+  "{tabCaption}": "{tabCaption}",
   "Define your business address and company information. Fields marked with * are required.": "Definite l'indirizzo dell'azienda e le informazioni sulla società. I campi contrassegnati con * sono obbligatori.",
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "Si è verificato un problema nel caricamento della chat di supporto. Il problema potrebbe essere dovuto all'attivazione di alcuni plugin di blocco del browser.",
-  "Please enter a valid password": "Inserire una password valida"
+  "Please enter a valid password": "Inserire una password valida",
+  "required": "obbligatorio",
+  "invalid email": "",
+  "invalid": "invalido",
+  "under the minimum of {num}": "inferiore a {num} elementi selezionati obbligatori",
+  "over the maximum of {num}": "superiore al massimo di {num} elementi selezionabili"
 }
