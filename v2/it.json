@@ -2191,9 +2191,18 @@
   "Define your business address and company information. Fields marked with * are required.": "Definite l'indirizzo dell'azienda e le informazioni sulla società. I campi contrassegnati con * sono obbligatori.",
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "Si è verificato un problema nel caricamento della chat di supporto. Il problema potrebbe essere dovuto all'attivazione di alcuni plugin di blocco del browser.",
   "Please enter a valid password": "Inserire una password valida",
-  "required": "obbligatorio",
-  "invalid email": "",
-  "invalid": "invalido",
-  "under the minimum of {num}": "inferiore a {num} elementi selezionati obbligatori",
-  "over the maximum of {num}": "superiore al massimo di {num} elementi selezionabili"
+  "Accept invitation": "",
+  "Go to Spaces": "",
+  "Something went wrong. It seems that you are trying to confirm the invitation sent to a different user.": "",
+  "Something went wrong. It seems that this invitation is not valid anymore.": "",
+  "Invitation confirmed! You are now a member of the organization {orgName}.": "",
+  "Please wait while we check your invitation.": "",
+  "I agree to the {termsOfService} and {privacyPolicy}": "",
+  "Before you continue you need to agree with Storyblok's Terms of Service and Privacy policy.": "",
+  "Confirm your account": "",
+  "There was an error confirming your account. Please try again.": "",
+  "Your account was successfully confirmed!": "",
+  "Skip, create later": "",
+  "No {labelDesc}": "",
+  "{count} {labelDesc}": ""
 }
