@@ -2203,6 +2203,10 @@
   "There was an error confirming your account. Please try again.": "There was an error confirming your account. Please try again.",
   "Your account was successfully confirmed!": "Your account was successfully confirmed!",
   "Skip, create later": "Skip, create later",
-  "No {labelDesc}": "No {labelDesc}",
-  "{count} {labelDesc}": "{count} {labelDesc}"
+  "required": "required",
+  "invalid email": "invalid email",
+  "invalid": "invalid",
+  "under the minimum of {num}": "under the minimum of {num}",
+  "over the maximum of {num}": "over the maximum of {num}",
+  "{fieldkey} in {link} is {error}": "{fieldkey} in {link} is {error}"
 }
