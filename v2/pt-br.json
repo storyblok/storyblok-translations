@@ -2122,7 +2122,6 @@
   "Define your business address and company information. Fields marked with * are required.": "Defina seu endereço comercial e informações da empresa. Os campos marcados com * são de preenchimento obrigatório.",
   "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "Havia um problema no carregamento do bate-papo de suporte. Isto pode ser devido ao fato de alguns plugins de bloqueio do navegador estarem ativos.",
   "There are some changes in the story which are not saved. Are you sure you want to discard the changes?": "Há algumas mudanças na história que não são salvas. Você tem certeza de que quer descartar as mudanças?",
-  "Yes, discard changes": "Sim, descarte de mudanças",
   "Please enter a valid password": "Favor digitar uma senha válida",
   "Accept invitation": "",
   "Go to Spaces": "",
@@ -2193,7 +2192,6 @@
   "Delete block | Delete blocks": "",
   "Delete group": "",
   "View App Directory": "",
-  "{itemCount} selected": "",
   "Are you sure you want to restore the following asset: <span>{asset}</span>? | Are you sure you want to restore these assets?": "",
   "Permanently delete {number} asset? | Permanently delete {number} assets?": "",
   "Assets will be gone forever and you won't be able to restore it.": "",
@@ -2230,5 +2228,8 @@
   "Are you sure you want to delete the following role: <span>{roleName}</span>?": "",
   "Are you sure you want to remove the collaborator <span>{collaborator}</span> from your space?": "",
   "Are you sure you want to delete the following workflow stage: <span>{workflowStage}</span>?": "",
-  "Are you sure that you want to remove the space <span>{spaceName}</span> from the organization?": ""
+  "Are you sure that you want to remove the space <span>{spaceName}</span> from the organization?": "",
+  "you": "",
+  "{date} by {name}": "",
+  "{num} item selected | {num} items selected": ""
 }
