@@ -2208,7 +2208,7 @@
   "Are you sure you want to delete this pipeline?": null,
   "Are you sure you want to delete this role?": null,
   "Are you sure you want to execute {task} task?": null,
-  "Are you sure you want to delete this task?": null,
+  "Are you sure you want to delete this task?": "",
   "Restore item(s)": null,
   "Yes, Delete": null,
   "Assets will be gone forever and you won’t be able to restore it.": null,
