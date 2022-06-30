@@ -746,8 +746,6 @@
   "No search results": "Nenhum resultado de busca",
   "All results": "Todos os resultados",
   "Replace": "Substitua",
-  "folder to the same folder": "pasta para a mesma pasta",
-  "root folder to a child folder": "pasta raiz para uma pasta infantil",
   "Folders": "Folders",
   "Select All": "Selecione Todos",
   "Clear": "Limpar",
@@ -2199,9 +2197,6 @@
   "item": null,
   "The": null,
   "Are you sure you want to move": null,
-  "You cannot move a": null,
-  "Selected": null,
-  "Hidden": null,
   "Custom roles are not included in": null,
   "You have run out of custom roles for your current": null,
   "plan, but you can try them in the": null,
@@ -2229,5 +2224,9 @@
   "My example space": null,
   "Please fill out the form to customize your experience": null,
   "The item has been updated | The items have been updated": null,
-  "Are you sure you want to restore this item? | Are you sure you want to restore these items?": null
+  "Are you sure you want to restore this item? | Are you sure you want to restore these items?": null,
+  "Hidden: {countRoles}": null,
+  "You cannot move a folder to the same folder": null,
+  "You cannot move a root folder to a child folder": null,
+  "{countAssets} Selected | {countAssets} Selected": null
 }

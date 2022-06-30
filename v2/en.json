@@ -746,8 +746,6 @@
   "No search results": "No search results",
   "All results": "All results",
   "Replace": "Replace",
-  "folder to the same folder": "folder to the same folder",
-  "root folder to a child folder": "root folder to a child folder",
   "Folders": "Folders",
   "Select All": "Select All",
   "Clear": "Clear",
@@ -2199,9 +2197,6 @@
   "item": "item",
   "The": "The",
   "Are you sure you want to move": "Are you sure you want to move",
-  "You cannot move a": "You cannot move a",
-  "Selected": "Selected",
-  "Hidden": "Hidden",
   "Custom roles are not included in": "Custom roles are not included in",
   "You have run out of custom roles for your current": "You have run out of custom roles for your current",
   "plan, but you can try them in the": "plan, but you can try them in the",
@@ -2229,5 +2224,9 @@
   "My example space": "My example space",
   "Please fill out the form to customize your experience": "Please fill out the form to customize your experience",
   "The item has been updated | The items have been updated": "The item has been updated | The items have been updated",
-  "Are you sure you want to restore this item? | Are you sure you want to restore these items?": "Are you sure you want to restore this item? | Are you sure you want to restore these items?"
+  "Are you sure you want to restore this item? | Are you sure you want to restore these items?": "Are you sure you want to restore this item? | Are you sure you want to restore these items?",
+  "Hidden: {countRoles}": "Hidden: {countRoles}",
+  "You cannot move a folder to the same folder": "You cannot move a folder to the same folder",
+  "You cannot move a root folder to a child folder": "You cannot move a root folder to a child folder",
+  "{countAssets} Selected | {countAssets} Selected": "{countAssets} Selected | {countAssets} Selected"
 }
