@@ -2222,6 +2222,6 @@
   "Are you sure you want to delete the following workflow stage: <span>{workflowStage}</span>?": null,
   "You cannot move a folder to the same folder": null,
   "You cannot move a root folder to a child folder": null,
-  "Custom roles are not included in the <span>{currentPlan}</span> plan, but you can try them in the {trialPeriod}": null,
-  "You have run out of custom roles for your current <span>{currentPlan}</span> plan. You can delete other roles, or upgrade your plan.": null
+  "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}": null,
+  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": null
 }
