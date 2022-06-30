@@ -2247,5 +2247,6 @@
   "New release": "New release",
   "Publish {release}": "Publish {release}",
   "Create new \"{block}\"": "Create new \"{block}\"",
-  "{hour}:00 {convention}": "{hour}:00 {convention}"
+  "{hour}:00 {convention}": "{hour}:00 {convention}",
+  "{pipeline} (current)": "{pipeline} (current)"
 }

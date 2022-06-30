@@ -2247,5 +2247,6 @@
   "New release": null,
   "Publish {release}": null,
   "Create new \"{block}\"": null,
-  "{hour}:00 {convention}": null
+  "{hour}:00 {convention}": null,
+  "{pipeline} (current)": null
 }
