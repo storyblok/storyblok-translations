@@ -2192,10 +2192,6 @@
   "Item has been duplicated": "Item has been duplicated",
   "Items has been duplicated": "Items has been duplicated",
   "The": "The",
-  "Custom roles are not included in": "Custom roles are not included in",
-  "You have run out of custom roles for your current": "You have run out of custom roles for your current",
-  "plan, but you can try them in the": "plan, but you can try them in the",
-  "plan. You can delete  other roles, or upgrade your plan.": "plan. You can delete  other roles, or upgrade your plan.",
   "Are you sure you want to delete this workflow stage?": "Are you sure you want to delete this workflow stage?",
   "Delete workflow": "Delete workflow",
   "In order to get content in": "In order to get content in",
@@ -2228,5 +2224,7 @@
   "Duplicate the story {story}": "Duplicate the story {story}",
   "Item in clipboard | Items in clipboard": "Item in clipboard | Items in clipboard",
   "Are you sure you want to move {items}?": "Are you sure you want to move {items}?",
-  "Move {items} here": "Move {items} here"
+  "Move {items} here": "Move {items} here",
+  "Custom roles are not included in {plan} plan, but you can try them in the": "Custom roles are not included in {plan} plan, but you can try them in the",
+  "You have run out of custom roles for your current {plan} plan. You can delete other roles, or upgrade your plan.": "You have run out of custom roles for your current {plan} plan. You can delete other roles, or upgrade your plan."
 }

@@ -2192,10 +2192,6 @@
   "Item has been duplicated": null,
   "Items has been duplicated": null,
   "The": null,
-  "Custom roles are not included in": null,
-  "You have run out of custom roles for your current": null,
-  "plan, but you can try them in the": null,
-  "plan. You can delete  other roles, or upgrade your plan.": null,
   "Are you sure you want to delete this workflow stage?": null,
   "Delete workflow": null,
   "In order to get content in": null,
@@ -2228,5 +2224,7 @@
   "Duplicate the story {story}": null,
   "Item in clipboard | Items in clipboard": null,
   "Are you sure you want to move {items}?": null,
-  "Move {items} here": null
+  "Move {items} here": null,
+  "Custom roles are not included in {plan} plan, but you can try them in the": null,
+  "You have run out of custom roles for your current {plan} plan. You can delete other roles, or upgrade your plan.": null
 }
