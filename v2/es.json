@@ -983,7 +983,7 @@
   "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.": "La modificación de los bloques sólo se permite a los administradores y a los usuarios con el permiso \"Permitir el acceso a la biblioteca de bloques\".",
   "Deleting this group will automatically unlink all blocks associated with this group.": "Al eliminar este grupo se desvinculan automáticamente todos los bloques asociados a él.",
   "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.": "Parece que todavía no tiene ningún bloque en este grupo. Puede crear nuevos bloques o mover los existentes dentro.",
-  "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.": "Cada bloque es una pequeña pieza de su estructura de datos que puede ser llenada con contenido o anidada por su editor de contenido.",
+  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": "Cada bloque es una pequeña pieza de su estructura de datos que puede ser llenada con contenido o anidada por su editor de contenido.",
   "from previous 7 days": "de los 7 días anteriores",
   "Same as last week": "Lo mismo que la semana pasada",
   "Workflows": "Flujos de trabajo",

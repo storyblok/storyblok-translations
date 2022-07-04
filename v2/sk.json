@@ -983,7 +983,7 @@
   "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.": "Zmena blokov je povolená len pre administrátorov a používateľské roly s oprávnením \"Povoliť prístup do knižnice blokov\".",
   "Deleting this group will automatically unlink all blocks associated with this group.": "Odstránením tejto skupiny sa automaticky zruší prepojenie všetkých blokov spojených s touto skupinou.",
   "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.": "Zdá sa, že v tejto skupine ešte nemáte žiadne bloky. Môžete v nej vytvoriť nové alebo presunúť existujúce bloky.",
-  "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.": "Každý blok je malá časť vašej dátovej štruktúry, ktorú môžete naplniť obsahom alebo vložiť do editora obsahu.",
+  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": "Každý blok je malá časť vašej dátovej štruktúry, ktorú môžete naplniť obsahom alebo vložiť do editora obsahu.",
   "from previous 7 days": "z predchádzajúcich 7 dní",
   "Same as last week": "Rovnako ako minulý týždeň",
   "Workflows": "Pracovné postupy",

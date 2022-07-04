@@ -963,7 +963,6 @@
   "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.": "A mudança de blocos só é permitida para administradores e funções do usuário com a permissão \"Permitir acesso à Biblioteca de Blocos\".",
   "Deleting this group will automatically unlink all blocks associated with this group.": "A eliminação deste grupo desvinculará automaticamente todos os blocos associados a este grupo.",
   "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.": "Parece que você ainda não tem nenhum bloco neste grupo. Você pode criar novos blocos ou mover blocos existentes dentro deles.",
-  "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.": "Cada bloco é uma pequena parte de sua estrutura de dados que pode ser preenchida com conteúdo ou aninhada por seu editor de conteúdo.",
   "from previous 7 days": "dos 7 dias anteriores",
   "Same as last week": "O mesmo da semana passada",
   "Workflows": "Fluxos de trabalho",
@@ -2266,5 +2265,6 @@
   "Pipelines are not included in the {currentPlan} plan, but you can try them in the {trial}.": null,
   "Hidden: {num}": null,
   "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}": null,
-  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": null
+  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": null,
+  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": null
 }

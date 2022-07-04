@@ -983,7 +983,7 @@
   "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.": null,
   "Deleting this group will automatically unlink all blocks associated with this group.": null,
   "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.": null,
-  "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.": null,
+  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": null,
   "from previous 7 days": null,
   "Same as last week": null,
   "Workflows": null,
