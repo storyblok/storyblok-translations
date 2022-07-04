@@ -2266,5 +2266,7 @@
   "Hidden: {num}": null,
   "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}": null,
   "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": null,
-  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": null
+  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": null,
+  "Add a folder by clicking the '+' icon": null,
+  "No folders created": null
 }

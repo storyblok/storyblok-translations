@@ -2266,5 +2266,7 @@
   "Hidden: {num}": "Hidden: {num}",
   "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}": "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}",
   "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.",
-  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": "Each block is a small piece of your data structure which can be filled with content or nested by your content editor."
+  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.",
+  "Add a folder by clicking the '+' icon": "Add a folder by clicking the '+' icon",
+  "No folders created": "No folders created"
 }
