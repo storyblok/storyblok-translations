@@ -963,6 +963,7 @@
   "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.": "La modification des blocs n'est autorisée que pour les administrateurs et les utilisateurs disposant de l'autorisation \"Autoriser l'accès à la bibliothèque de blocs\".",
   "Deleting this group will automatically unlink all blocks associated with this group.": "La suppression de ce groupe entraînera automatiquement la désolidarisation de tous les blocs associés à ce groupe.",
   "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.": "Il semble que vous n'ayez pas encore de blocs dans ce groupe. Vous pouvez créer de nouveaux blocs ou déplacer des blocs existants à l'intérieur.",
+  "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.": "Chaque bloc est un petit morceau de votre structure de données qui peut être rempli de contenu ou imbriqué par votre éditeur de contenu.",
   "from previous 7 days": "des 7 jours précédents",
   "Same as last week": "Comme la semaine dernière",
   "Workflows": "Workflows",
@@ -2204,7 +2205,7 @@
   "title": null,
   "by {name}": null,
   "ID/Slug": null,
-  "Import/Export": null,
+  "Import/Export": "",
   "Release date & time (optional)": null,
   "Let's get started": null,
   "Remove collaborator": null,
@@ -2265,8 +2266,5 @@
   "Pipelines are not included in the {currentPlan} plan, but you can try them in the {trial}.": null,
   "Hidden: {num}": null,
   "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}": null,
-  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": null,
-  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": null,
-  "Add a folder by clicking the '+' icon": null,
-  "No folders created": null
+  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": null
 }

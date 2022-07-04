@@ -963,6 +963,7 @@
   "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.": "Changing blocks is only allowed for admins and user roles with the \"Allow access to Block Library\" permission.",
   "Deleting this group will automatically unlink all blocks associated with this group.": "Deleting this group will automatically unlink all blocks associated with this group.",
   "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.": "It seems you do not have any blocks in this group yet. You can create new or move existing blocks inside.",
+  "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.": "Each block is a small piece of your data structure whicn can be filled with content or nested by your content editor.",
   "from previous 7 days": "from previous 7 days",
   "Same as last week": "Same as last week",
   "Workflows": "Workflows",
@@ -2265,8 +2266,5 @@
   "Pipelines are not included in the {currentPlan} plan, but you can try them in the {trial}.": "Pipelines are not included in the {currentPlan} plan, but you can try them in the {trial}.",
   "Hidden: {num}": "Hidden: {num}",
   "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}": "Custom roles are not included in the {currentPlan} plan, but you can try them in the {trialPeriod}",
-  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.",
-  "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.": "Each block is a small piece of your data structure which can be filled with content or nested by your content editor.",
-  "Add a folder by clicking the '+' icon": "Add a folder by clicking the '+' icon",
-  "No folders created": "No folders created"
+  "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan.": "You have run out of custom roles for your current {currentPlan} plan. You can delete other roles, or upgrade your plan."
 }
