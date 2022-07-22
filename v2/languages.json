@@ -2,6 +2,8 @@
   "languages":[ 
     {"code": "de", "label": "German"},
     {"code": "en", "label": "English"},
+    {"code": "es", "label": "Spanish"},
+    {"code": "nl", "label": "Dutch"},
     {"code": "fr", "label": "French"},
     {"code": "it", "label": "Italian"},
     {"code": "ja", "label": "Japanese"},
