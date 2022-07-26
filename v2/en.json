@@ -106,7 +106,6 @@
   "Blocks": "Blocks",
   "Users": "Users",
   "Content Activities": "Content Activities",
-  "Api Requests": "Api Requests",
   "Go to spaces": "Go to spaces",
   "Back to App Directory": "Back to App Directory",
   "Uninstall": "Uninstall",
@@ -826,7 +825,6 @@
   "Pipeline App installed": "Pipeline App installed",
   "Minimum Cache TTL": "Minimum Cache TTL",
   "Cloud name": "Cloud name",
-  "Api Key": "Api Key",
   "Loading... You will be redirect to Slack in a few seconds!": "Loading... You will be redirect to Slack in a few seconds!",
   "Disconnect": "Disconnect",
   "Cloudinary Integration": "Cloudinary Integration",
@@ -2458,5 +2456,6 @@
   "Logo URL": "Logo URL",
   "Add URL": "Add URL",
   "URL to the editor": "URL to the editor",
-  "Set Logo URL": "Set Logo URL"
+  "Set Logo URL": "Set Logo URL",
+  "API Key": "API Key"
 }

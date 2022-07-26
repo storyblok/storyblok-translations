@@ -106,7 +106,6 @@
   "Blocks": "块状物",
   "Users": "用户",
   "Content Activities": "内容活动",
-  "Api Requests": "请求援助",
   "Go to spaces": "转到空间",
   "Back to App Directory": "返回到应用程序目录",
   "Uninstall": "卸载",
@@ -826,7 +825,6 @@
   "Pipeline App installed": "已安装的管道应用程序",
   "Minimum Cache TTL": "最小缓存TTL",
   "Cloud name": "云名称",
-  "Api Key": "Api密钥",
   "Loading... You will be redirect to Slack in a few seconds!": "正在加载...你将在几秒钟内被重新定向到Slack!",
   "Disconnect": "断开连接",
   "Cloudinary Integration": "Cloudinary整合",
@@ -2458,5 +2456,6 @@
   "Logo URL": null,
   "Add URL": null,
   "URL to the editor": null,
-  "Set Logo URL": null
+  "Set Logo URL": null,
+  "API Key": null
 }

@@ -106,7 +106,6 @@
   "Blocks": "Bloki",
   "Users": "Użytkownicy",
   "Content Activities": "Działania dotyczące treści",
-  "Api Requests": "Zapytania do Api",
   "Go to spaces": "Przejdź do miejsc",
   "Back to App Directory": "Powrót do Katalogu aplikacji",
   "Uninstall": "Odinstaluj",
@@ -826,7 +825,6 @@
   "Pipeline App installed": "Zainstalowana aplikacja Pipeline App",
   "Minimum Cache TTL": "Minimalny TTL pamięci podręcznej",
   "Cloud name": "Nazwa chmury",
-  "Api Key": "Klucz Api",
   "Loading... You will be redirect to Slack in a few seconds!": "Ładowanie... Za kilka sekund zostaniesz przekierowany do Slacka!",
   "Disconnect": "Odłącz",
   "Cloudinary Integration": "Integracja z Cloudinary",
@@ -2458,5 +2456,6 @@
   "Logo URL": null,
   "Add URL": null,
   "URL to the editor": null,
-  "Set Logo URL": null
+  "Set Logo URL": null,
+  "API Key": null
 }

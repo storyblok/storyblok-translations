@@ -106,7 +106,6 @@
   "Blocks": "Блоки",
   "Users": "Пользователи",
   "Content Activities": "Содержательная деятельность",
-  "Api Requests": "Запросы Api",
   "Go to spaces": "Перейти к пространствам",
   "Back to App Directory": "Назад в Каталог приложений",
   "Uninstall": "Удалить",
@@ -826,7 +825,6 @@
   "Pipeline App installed": "Установлено приложение Pipeline App",
   "Minimum Cache TTL": "Минимальное время ожидания кэша",
   "Cloud name": "Название облака",
-  "Api Key": "Ключ Api",
   "Loading... You will be redirect to Slack in a few seconds!": "Загрузка... Вы будете перенаправлены в Slack через несколько секунд!",
   "Disconnect": "Отключить",
   "Cloudinary Integration": "Интеграция с Cloudinary",
@@ -2458,5 +2456,6 @@
   "Logo URL": null,
   "Add URL": null,
   "URL to the editor": null,
-  "Set Logo URL": null
+  "Set Logo URL": null,
+  "API Key": null
 }
