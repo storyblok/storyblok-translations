@@ -1674,8 +1674,6 @@
   "Close content browser": "Close content browser",
   "All Content": "All Content",
   "published": "published",
-  "saved": "saved",
-  "Field-type was {message}": "Field-type was {message}",
   "Do you really want to delete this field-type?": "Do you really want to delete this field-type?",
   "No activities found.": "No activities found.",
   "Icon {name}": "Icon {name}",
@@ -2460,5 +2458,7 @@
   "With this preview token you can connect your space to any existing project or demo to access your content.": "With this preview token you can connect your space to any existing project or demo to access your content.",
   "Set up preview URL": "Set up preview URL",
   "You're editing content in the {name} release.": "You're editing content in the {name} release.",
-  "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.": "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically."
+  "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.": "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.",
+  "Field-type was published": "Field-type was published",
+  "Field-type was saved": "Field-type was saved"
 }

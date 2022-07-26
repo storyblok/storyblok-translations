@@ -1674,8 +1674,6 @@
   "Close content browser": "Content Browser schließen",
   "All Content": "Alle Inhalte",
   "published": "veröffentlicht",
-  "saved": "gespeichert",
-  "Field-type was {message}": "Feldtyp war {message}",
   "Do you really want to delete this field-type?": "Wollen Sie diesen Feldtyp wirklich löschen?",
   "No activities found.": "Keine Aktivitäten gefunden.",
   "Icon {name}": "Symbol {name}",
@@ -2460,5 +2458,7 @@
   "With this preview token you can connect your space to any existing project or demo to access your content.": null,
   "Set up preview URL": null,
   "You're editing content in the {name} release.": null,
-  "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.": null
+  "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.": null,
+  "Field-type was published": null,
+  "Field-type was saved": null
 }

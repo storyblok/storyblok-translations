@@ -1674,8 +1674,6 @@
   "Close content browser": "コンテンツブラウザを閉じる",
   "All Content": "全てのコンテンツ",
   "published": "しょさい",
-  "saved": "セーブ",
-  "Field-type was {message}": null,
   "Do you really want to delete this field-type?": "本当にこのフィールドタイプを削除しますか？",
   "No activities found.": "アクティビティは見つかりませんでした。",
   "Icon {name}": null,
@@ -2460,5 +2458,7 @@
   "With this preview token you can connect your space to any existing project or demo to access your content.": null,
   "Set up preview URL": null,
   "You're editing content in the {name} release.": null,
-  "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.": null
+  "You're editing content in the {name} release. Once you edit and click \"Save & Schedule\" your changes will be added to release automatically.": null,
+  "Field-type was published": null,
+  "Field-type was saved": null
 }
