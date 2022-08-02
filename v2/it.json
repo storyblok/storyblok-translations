@@ -2021,7 +2021,7 @@
   "No results found. You are not part of any organization spaces.": "Nessun risultato trovato. Non fai parte di nessuno spazio appartenente ad un'organizzazione.",
   "Set default": "Imposta predefinito",
   "Today": "Oggi",
-  "No {labelDesc}": "Nessun{labelDesc} ",
+  "No {labelDesc}": "Nessun {labelDesc} ",
   "{count} {labelDesc}": "{count} {labelDesc}",
   "View App Directory": "Visualizza l'elenco Applicazioni",
   "Assigned to:": "Assegnato a:",
