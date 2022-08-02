@@ -2478,5 +2478,6 @@
   "Source pipeline stage": "Source pipeline stage",
   "Preview (default)": "Preview (default)",
   "By default collaborators of this space will be able change in between V2 and V1. By selecting the checkbox below the collaborators will only be able to use the Storyblok frontend V2.": "By default collaborators of this space will be able change in between V2 and V1. By selecting the checkbox below the collaborators will only be able to use the Storyblok frontend V2.",
-  "Force Storyblok V2": "Force Storyblok V2"
+  "Force Storyblok V2": "Force Storyblok V2",
+  "Will be released at: {date}": "Will be released at: {date}"
 }
