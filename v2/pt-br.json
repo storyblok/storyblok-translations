@@ -1351,7 +1351,7 @@
   "Welcome 👋": "Bem vindo 👋",
   "Field-types can be selected as custom type inside the component schema.": "Os tipos de campo podem ser selecionados como tipo personalizado dentro do esquema do componente.",
   "Please enter a valid slug": "Insira um slug válido",
-  "Edited {date}": "Editado {data}",
+  "Edited {date}": "Editado {date}",
   "Fieldtype": "Tipo de campo",
   "Select the Field-types that you would like to include in this app.": "Selecione os campos que você gostaria de incluir neste aplicativo.",
   "Do you really want to delete this app?": "Você realmente deseja excluir este aplicativo?",
