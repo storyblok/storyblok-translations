@@ -11,6 +11,7 @@
     {"code": "zh", "label": "Chinese"},
     {"code": "it", "label": "Italian"},
     {"code": "ru", "label": "Russian"},
-    {"code": "pl", "label": "Polish"}
+    {"code": "pl", "label": "Polish"},
+    {"code": "hi", "label": "Hindi"}
   ]
 }
