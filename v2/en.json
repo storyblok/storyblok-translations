@@ -899,7 +899,6 @@
   "Theme mode": "Theme",
   "More theme options coming soon": "More theme options coming soon",
   "Delete Account": "Delete Account",
-  "Deleting your account is permant.": "Deleting your account is permant.",
   "Data processing agreement (DPA)": "Data processing agreement (DPA)",
   "Tokens that have been generated to access the": "Tokens that have been generated to access the",
   "Personal access tokens work like ordinary OAuth access tokens. They can be used to authenticate yourself to have full access to the managment API programmatically and should NEVER be exposed in public.": "Personal access tokens work like ordinary OAuth access tokens. They can be used to authenticate yourself to have full access to the managment API programmatically and should NEVER be exposed in public.",
@@ -1252,7 +1251,6 @@
   "Continue to checkout": "Continue to checkout",
   "external user": "external user",
   "disabled user": "disabled user",
-  "Edit user": "Edit user",
   "Disable user": "Disable user",
   "Enable user": "Enable user",
   "My Organization": "My Organization",
@@ -1860,7 +1858,6 @@
   "The space owner has been updated successfully.": "The space owner has been updated successfully.",
   "We couldn't find any content matching your search term '{searchTerm}'.": "We couldn't find any content matching your search term '{searchTerm}'.",
   "Deleted user": "Deleted user",
-  "Invitation expires at {date}": "Invitation expires at {date}",
   "Transfer ownership of the space": "Transfer ownership of the space",
   "Active ({length})": "Active ({length})",
   "Invited ({length})": "Invited ({length})",
@@ -2343,5 +2340,10 @@
   "This space is currently subscribed to the <span>{spacePlan}</span> plan with a maximum of <span>{spaceMaxUsers}</span> users.": "This space is currently subscribed to the <span>{spacePlan}</span> plan with a maximum of <span>{spaceMaxUsers}</span> users.",
   "You can either remove current users or upgrade the space plan in order to be able to add more users.": "You can either remove current users or upgrade the space plan in order to be able to add more users.",
   "Please ask your Storyblok space owner <span>{spaceOwnerEmail}</span> to either remove current users or to upgrade the space plan in order to be able to add more users.": "Please ask your Storyblok space owner <span>{spaceOwnerEmail}</span> to either remove current users or to upgrade the space plan in order to be able to add more users.",
-  "Upgrade now": "Upgrade now"
+  "Upgrade now": "Upgrade now",
+  "Invite expiration date: {date}": "Invite expiration date: {date}",
+  "Inactive": "Inactive",
+  "Invited": "Invited",
+  "Enable": "Enable",
+  "Deleting your account is permanent.": "Deleting your account is permanent."
 }
