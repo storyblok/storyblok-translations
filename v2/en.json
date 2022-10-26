@@ -520,8 +520,6 @@
   "Member": "Member",
   "Owner": "Owner",
   "Add Member": "Add Member",
-  "User was updated": "User was updated",
-  "The user was removed from the partner portal.": "The user was removed from the partner portal.",
   "View Roadmap": "View Roadmap",
   "Add comment": "Add comment",
   "Filetypes": "Filetypes",
@@ -2391,5 +2389,7 @@
   "Server Location": "Server Location",
   "Compare all Storyblok features": "Compare all Storyblok features",
   "Show plan comparison": "Show plan comparison",
-  "Thank you! You have successfully subscribed to the <span>{planName}</span> plan.": "Thank you! You have successfully subscribed to the <span>{planName}</span> plan."
+  "Thank you! You have successfully subscribed to the <span>{planName}</span> plan.": "Thank you! You have successfully subscribed to the <span>{planName}</span> plan.",
+  "Invitation successfully deleted": "Invitation successfully deleted",
+  "User successfully removed": "User successfully removed"
 }
