@@ -2388,8 +2388,6 @@
   "Compare all Storyblok features": "Compare all Storyblok features",
   "Show plan comparison": "Show plan comparison",
   "Thank you! You have successfully subscribed to the <span>{planName}</span> plan.": "Thank you! You have successfully subscribed to the <span>{planName}</span> plan.",
-  "User was updated": "User was updated",
-  "The user was removed from the partner portal.": "The user was removed from the partner portal.",
   "\n          If you downgrade to a Storyblok {planName} plan you will only have {planIncludedUsers} included user seat and a maximum of {planMaxUsers} users. You will also lose the following features: | \n          If you downgrade to a Storyblok {planName} plan you will only have {planIncludedUsers} included user seats and a maximum of {planMaxUsers} users. You will also lose the following features:\n        ": "\n          If you downgrade to a Storyblok {planName} plan you will only have {planIncludedUsers} included user seat and a maximum of {planMaxUsers} users. You will also lose the following features: | \n          If you downgrade to a Storyblok {planName} plan you will only have {planIncludedUsers} included user seats and a maximum of {planMaxUsers} users. You will also lose the following features:\n        ",
   "\n          <span>Action required:</span> the {planName} plan has {planIncludedUsers} user seat included and a max of {planMaxUsers} users. Currently you have {spaceUsersCount} users so you need to remove at least {usersToRemove} users to fit. | \n          <span>Action required:</span> the {planName} plan has {planIncludedUsers} user seats included and a max of {planMaxUsers} users. Currently you have {spaceUsersCount} users so you need to remove at least {usersToRemove} users to fit.\n        ": "\n          <span>Action required:</span> the {planName} plan has {planIncludedUsers} user seat included and a max of {planMaxUsers} users. Currently you have {spaceUsersCount} users so you need to remove at least {usersToRemove} users to fit. | \n          <span>Action required:</span> the {planName} plan has {planIncludedUsers} user seats included and a max of {planMaxUsers} users. Currently you have {spaceUsersCount} users so you need to remove at least {usersToRemove} users to fit.\n        ",
   "Need help?": "Need help?",
@@ -2401,5 +2399,10 @@
   "Remove users & downgrade": "Remove users & downgrade",
   "Downgrade": "Downgrade",
   "Selected users will no longer have access to {spaceName}. This action cannot be undone.": "Selected users will no longer have access to {spaceName}. This action cannot be undone.",
-  "Lose access to <span>{feature}</span>": "Lose access to <span>{feature}</span>"
+  "Lose access to <span>{feature}</span>": "Lose access to <span>{feature}</span>",
+  "Learn more about discussions": "Learn more about discussions",
+  "Open story": "Open story",
+  "Workflow Stage": "Workflow Stage",
+  "Invitation successfully deleted": "Invitation successfully deleted",
+  "User successfully removed": "User successfully removed"
 }
