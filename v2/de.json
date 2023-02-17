@@ -1273,7 +1273,7 @@
   "No logs found": "Keine Protokolle gefunden",
   "It seems you do not have any apps yet": "Anscheinend verfügen Sie noch über keine Apps",
   "It seems you do not have any spaces yet": "Anscheinend verfügen Sie noch über keinen Space",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} Datenquellen sind in diesem {plan} nicht enthalten, doch Sie können sie im Zeitraum {period} testen.",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "Datenquellen sind in diesem {plan} nicht enthalten, doch Sie können sie im Zeitraum {period} testen.",
   "Please enter a valid email": "Bitte geben Sie eine gültige E-Mail-Adresse ein",
   "Please enter a valid email address.": "Bitte geben Sie eine gültige E-Mail-Adresse ein.",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "Wird als die primäre Kontaktinformation für unseren Schriftverkehr mit Ihnen verwendet. Andere werden durch die Hinzufügung der vollständigen E-Mail-Adresse in der Lage sein, Sie als Mitwirkenden hinzuzufügen.",

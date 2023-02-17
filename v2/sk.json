@@ -1273,7 +1273,7 @@
   "No logs found": "Nenašli sa žiadne logy",
   "It seems you do not have any apps yet": "Zdá sa, že ešte nemáte žiadne aplikácie",
   "It seems you do not have any spaces yet": "Zdá sa, že ešte nemáte žiadne priestory",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} Zdroje údajov nie sú zahrnuté v tomto {plan}, môžete ich však vyskúšať v {period}.",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "Zdroje údajov nie sú zahrnuté v tomto {plan}, môžete ich však vyskúšať v {period}.",
   "Please enter a valid email": "Zadajte, prosím, platný e-mail",
   "Please enter a valid email address.": "Zadajte, prosím, platnú e-mailovú adresu.",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "Použijú sa ako naše primárne kontaktné informácie pre vás. Ostatní si vás budú môcť pridať ako spolupracovníka po zadaní úplnej e-mailovej adresy.",

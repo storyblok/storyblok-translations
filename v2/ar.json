@@ -1273,7 +1273,7 @@
   "No logs found": "لم يتم العثور على أية سجلات",
   "It seems you do not have any apps yet": "يبدو أنه ليس لديك أية تطبيقات حتى الآن",
   "It seems you do not have any spaces yet": "يبدو أنه ليس لديك أية مساحات حتى الآن",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} لم يتم تضمين مصادر البيانات في هذه  {plan}، ولكن يمكنك تجربتها في {period}.",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "لم يتم تضمين مصادر البيانات في هذه  {plan}، ولكن يمكنك تجربتها في {period}.",
   "Please enter a valid email": "يُرجى إدخال بريد إلكتروني صالح",
   "Please enter a valid email address.": "يُرجى إدخال عنوان بريد إلكتروني صالح.",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "سيتم استخدامه كبيانات اتصال أساسية لك خاصة بنا. سيتمكن الآخرون من إضافتك كمتعاون عبر إدخال عنوان البريد الإلكتروني كاملًا.",

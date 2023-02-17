@@ -1273,7 +1273,7 @@
   "No logs found": "ログが見つかりません",
   "It seems you do not have any apps yet": "アプリがまだ存在していないようです",
   "It seems you do not have any spaces yet": "スペースがまだ存在していないようです",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} データソースはこの{plan}には含まれていませんが、{period}中に試すことができます。",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "データソースはこの{plan}には含まれていませんが、{period}中に試すことができます。",
   "Please enter a valid email": "有効な電子メールを入力してください",
   "Please enter a valid email address.": "有力な電子メールアドレスを入力してください。",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "お客様への当社の主な連絡情報として使います。 有効な電子メールアドレスを提供することで、協力者として追加してもらえることもできます。",

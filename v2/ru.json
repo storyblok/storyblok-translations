@@ -1273,7 +1273,7 @@
   "No logs found": "Журналы не найдены",
   "It seems you do not have any apps yet": "Похоже, у вас пока нет приложений",
   "It seems you do not have any spaces yet": "Похоже, у вас пока нет пространств",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} Источники данных не включены в этот {plan}, но вы можете попробовать их в {period}.",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "Источники данных не включены в этот {plan}, но вы можете попробовать их в {period}.",
   "Please enter a valid email": "Введите действительную эл. почту",
   "Please enter a valid email address.": "Введите действительный адрес эл. почты.",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "Будет использоваться в качестве нашего основного способа контакта с вами. Другие пользователи смогут добавить вас в качестве соавтора, указав полный адрес эл. почты.",

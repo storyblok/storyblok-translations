@@ -1273,7 +1273,7 @@
   "No logs found": "未找到日志",
   "It seems you do not have any apps yet": "似乎你还没有任何应用",
   "It seems you do not have any spaces yet": "似乎你还没有任何空间",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} 数据源不包括在此 {plan} 中，但你可以在 {period} 内试用它们。",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "数据源不包括在此 {plan} 中，但你可以在 {period} 内试用它们。",
   "Please enter a valid email": "请输入有效的电子邮件",
   "Please enter a valid email address.": "请输入有效的电子邮件地址。",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "将被用作我们与你的主要联系信息。 通过提供完整的电子邮件地址，其他人可以把你加为合作者。",

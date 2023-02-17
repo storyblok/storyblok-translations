@@ -1273,7 +1273,7 @@
   "No logs found": "Inga loggar funna",
   "It seems you do not have any apps yet": "Det verkar som att du inte har några appar ännu",
   "It seems you do not have any spaces yet": "Det verkar som att du inte har några utrymmen ännu",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} Datakällorna ingår inte i den här {plan}, men du kan prova på dem under {period}.",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "Datakällorna ingår inte i den här {plan}, men du kan prova på dem under {period}.",
   "Please enter a valid email": "Vänligen ange en giltig e-post",
   "Please enter a valid email address.": "Vänligen ange en giltig e-postadress.",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "Kommer att användas som din primära kontaktinformation. Andra kommer kunna lägga till dig som medarbetare genom att ange full e-postadress.",

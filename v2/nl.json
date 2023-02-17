@@ -1273,7 +1273,7 @@
   "No logs found": "Geen logs gevonden",
   "It seems you do not have any apps yet": "Het lijkt erop dat u nog geen apps hebt",
   "It seems you do not have any spaces yet": "Het lijkt erop dat u nog geen spaces heeft",
-  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} Databronnen zijn niet in dit {plan} opgenomen, maar u kunt ze in de {period} proberen.",
+  "Datasources are not included in this {plan}, but you can try them in the {period}.": "Databronnen zijn niet in dit {plan} opgenomen, maar u kunt ze in de {period} proberen.",
   "Please enter a valid email": "Voer een geldig e-mailadres in",
   "Please enter a valid email address.": "Gelieve een geldig e-mailadres in te voeren.",
   "Will be used as our primary contact information to you. Others will be able to add you as collaborator by providing the full email address.": "Zal gebruikt worden als onze primaire contactinformatie voor u. Anderen zullen u als medewerker kunnen toevoegen door het volledige e-mailadres op te geven.",
