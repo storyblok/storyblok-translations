@@ -2736,6 +2736,8 @@
   "Includes {includedSeats} user seats": "Includes {includedSeats} user seats",
   "Includes {includedSeats} team member seats": "Includes {includedSeats} team member seats",
   "The trial period for this space has ended. In order to upgrade your space, please contact your Storyblok space owner: <span class=\"empty-state__text-link\">{ownerEmail}</span>": "The trial period for this space has ended. In order to upgrade your space, please contact your Storyblok space owner: <span class=\"empty-state__text-link\">{ownerEmail}</span>",
-  "Datasources are not included in this {plan}, but you can try them in the {period}.": "Datasources are not included in this {plan}, but you can try them in the {period}.",
-  "trialEnds": "trialEnds"
+  "trialEnds": "trialEnds",
+  "Superscript": "Superscript",
+  "Subscript": "Subscript",
+  "{icon} Datasources are not included in this {plan}, but you can try them in the {period}.": "{icon} Datasources are not included in this {plan}, but you can try them in the {period}."
 }
