@@ -2742,5 +2742,7 @@
   "1. Read the tutorial on": "",
   "\n          <span>Action required:</span> the {planName} plan has {planIncludedUsers} user seat included and a max of {planMaxUsers} users. Currently you have {spaceUsersCount} users so you need to remove at least {usersToRemove} user to fit. |\n          <span>Action required:</span> the {planName} plan has {planIncludedUsers} user seats included and a max of {planMaxUsers} users. Currently you have {spaceUsersCount} users so you need to remove at least {usersToRemove} users to fit.\n        ": "",
   "Add your leads to start the conversation with our partner team on how we can help you win! For Enterprise deals that were first sourced by you we offer 10% Revenue Share once the deal has been won.": "",
-  "Welcome to the Partner Portal video": ""
+  "Welcome to the Partner Portal video": "",
+  "Get more webhooks": "Ottieni webhooks",
+  "New Webhook": "Nuovo Webhook"
 }
