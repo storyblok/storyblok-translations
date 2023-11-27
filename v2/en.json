@@ -736,7 +736,6 @@
   "Deleted at": "Deleted at",
   "Back to Content": "Back to Content",
   "All your deleted items will show up here.": "All your deleted items will show up here.",
-  "It seems you do not have any content yet.": "It seems you do not have any content yet.",
   "You don’t have any deleted content": "You don’t have any deleted content",
   "This folder is empty": "This folder is empty",
   "This pipeline has never been deployed": "This pipeline has never been deployed",
@@ -2820,5 +2819,8 @@
   "Deny permission to change field names": "Deny permission to change field names",
   "With this role the user will not be able to update the block component technical names.": "With this role the user will not be able to update the block component technical names.",
   "With this role the user will not be able to update the block field names.": "With this role the user will not be able to update the block field names.",
-  "Last updated by {updateUser} {updateTime}": "Last updated by {updateUser} {updateTime}"
+  "Last updated by {updateUser} {updateTime}": "Last updated by {updateUser} {updateTime}",
+  "Start creating your content": "Start creating your content",
+  "Add your content here. Start by creating your first story.": "Add your content here. Start by creating your first story.",
+  "New Story": "New Story"
 }
