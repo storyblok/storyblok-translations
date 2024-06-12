@@ -3618,7 +3618,6 @@
   "Search for asset folders": "Search for asset folders",
   "Users within this role will see and have access to assets only from selected folders": "Users within this role will see and have access to assets only from selected folders",
   "Search for blocks/content types": "Search for blocks/content types",
-  "Disable non-translatable fields in languages other than the Default language": "Disable non-translatable fields in languages other than the Default language",
   "With this role, the user will not have access to content that the admin or owner does not allow. To select the content that the user will have access to, add the stories that the user can see in the Content tab. And you need to add the role 'Allow reading content' because without this the user can't see the content.": "With this role, the user will not have access to content that the admin or owner does not allow. To select the content that the user will have access to, add the stories that the user can see in the Content tab. And you need to add the role 'Allow reading content' because without this the user can't see the content.",
   "With this role, the user will not have access to content that the admin or owner does not allow. To select the content that the user will have access to, add the folders that the user can see in the Content tab. And you need to add the role 'Allow reading content' because without this the user can't see the content.": "With this role, the user will not have access to content that the admin or owner does not allow. To select the content that the user will have access to, add the folders that the user can see in the Content tab. And you need to add the role 'Allow reading content' because without this the user can't see the content.",
   "Users with this role will be able to open the Draft JSON URL from the Visual Editor.": "Users with this role will be able to open the Draft JSON URL from the Visual Editor.",
@@ -3705,5 +3704,10 @@
   "Yesterday": "Yesterday",
   "Oops, there were some problems": "Oops, there were some problems",
   " enable ": " enable ",
-  " disable ": " disable "
+  " disable ": " disable ",
+  "You should have the role \"admin\" in this space to install this app.": "You should have the role \"admin\" in this space to install this app.",
+  "Make non-translatable fields editable only in the default language": "Make non-translatable fields editable only in the default language",
+  "Encode Preview URLs": "Encode Preview URLs",
+  "With this configuration, the url sent to the iframe will be encoded, meaning that attributes such as [ and ] will be changed to %5B and %5D.": "With this configuration, the url sent to the iframe will be encoded, meaning that attributes such as [ and ] will be changed to %5B and %5D.",
+  "Encode URL": "Encode URL"
 }
