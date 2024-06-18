@@ -728,10 +728,8 @@
   "A space is an area to manage and store content for a specific project": "A space is an area to manage and store content for a specific project",
   "How can we help you?": "How can we help you?",
   "Report a problem": "Report a problem",
-  "Feature Request": "Feature Request",
   "Changelog": "Changelog",
   "Community": "Community",
-  "Pricing": "Pricing",
   "Account settings": "Account settings",
   "Help & Inspiration": "Help & Inspiration",
   "Move block down": "Move block down",
@@ -2892,7 +2890,6 @@
   "over the maximum of {num}": "over the maximum of {num}",
   "under the minimum of {num}": "under the minimum of {num}",
   "invalid": "invalid",
-  "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.": "There was a problem in loading the support chat. This might be due to some browser blocking plugins being active.",
   "Last updated": "Last updated",
   "Server location": "Server location",
   "Could not load all user spaces.": "Could not load all user spaces.",
@@ -3706,8 +3703,9 @@
   " enable ": " enable ",
   " disable ": " disable ",
   "You should have the role \"admin\" in this space to install this app.": "You should have the role \"admin\" in this space to install this app.",
-  "Make non-translatable fields editable only in the default language": "Make non-translatable fields editable only in the default language",
   "Encode Preview URLs": "Encode Preview URLs",
   "With this configuration, the url sent to the iframe will be encoded, meaning that attributes such as [ and ] will be changed to %5B and %5D.": "With this configuration, the url sent to the iframe will be encoded, meaning that attributes such as [ and ] will be changed to %5B and %5D.",
-  "Encode URL": "Encode URL"
+  "Encode URL": "Encode URL",
+  "Live Chat": "Live Chat",
+  "Disable non-translatable fields in languages other than the Default language": "Disable non-translatable fields in languages other than the Default language"
 }
