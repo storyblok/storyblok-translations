@@ -1910,7 +1910,6 @@
   "Remove field": "Remove field",
   "Remove all fields": "Remove all fields",
   "{count} item out of schema | {count} items out of schema": "{count} item out of schema | {count} items out of schema",
-  "Anchor ID:": "Anchor ID:",
   "Generate access token": "Generate access token",
   "With this preview token you can connect your space to any existing project or demo to access your content": "With this preview token you can connect your space to any existing project or demo to access your content",
   "Access token allows access to your published and drafted content items.": "Access token allows access to your published and drafted content items.",
@@ -3738,5 +3737,7 @@
   "Sort list in alphabetical order": "Sort list in alphabetical order",
   "Sort list by hidden first": "Sort list by hidden first",
   "Update Bookmark": "Update Bookmark",
-  "Close Sidebar": "Close Sidebar"
+  "Close Sidebar": "Close Sidebar",
+  "Anchor ID: {id}": "Anchor ID: {id}",
+  "Remove anchor": "Remove anchor"
 }
