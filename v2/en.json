@@ -3744,5 +3744,8 @@
   "Organization": "Organization",
   "Partner": "Partner",
   "Starred Spaces": "Starred Spaces",
-  "Workflow stages reordered successfully": "Workflow stages reordered successfully"
+  "Workflow stages reordered successfully": "Workflow stages reordered successfully",
+  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.",
+  "Unsubscribe": "Unsubscribe",
+  "Contact Support": "Contact Support"
 }
