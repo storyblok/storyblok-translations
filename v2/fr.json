@@ -1859,7 +1859,6 @@
   "Restore version": "Restaurer la version",
   "Are you sure you want to restore version from <strong>{formatted_date}</strong> updated by <strong>{author}</strong>?": "Êtes-vous sûr de vouloir restaurer la version du <strong>{formatted_date}</strong>, actualisée par <strong>{author}</strong> ?",
   "The component has been restored!": "Le composant a été restauré !",
-  "In order to install the {appName} app, first select the\n            space where the app will be installed.": "Pour pouvoir installer l'Application {[term1]Name}, saisissez d'abord\n            l'espace ou l'Application va être installée",
   "Install App": "Installer l'Application",
   "This app could not be found.": "Cette Application n'a pas pu être trouvée.",
   "Space Region": "Région de l'espace",
@@ -3739,5 +3738,14 @@
   "Update Bookmark": "",
   "Close Sidebar": "",
   "Anchor ID: {id}": "",
-  "Remove anchor": ""
+  "Remove anchor": "",
+  "Invalid filename. The file has unexpected dots in the name \"{name}\", please remove them and try again.": "",
+  "In order to install the {appName} app, first select the space where the app will be installed.": "",
+  "Organization": "Organisation",
+  "Partner": "",
+  "Starred Spaces": "",
+  "Workflow stages reordered successfully": "",
+  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "",
+  "Unsubscribe": "",
+  "Contact Support": ""
 }

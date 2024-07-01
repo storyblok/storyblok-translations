@@ -1859,7 +1859,6 @@
   "Restore version": "버전 복원",
   "Are you sure you want to restore version from <strong>{formatted_date}</strong> updated by <strong>{author}</strong>?": "<strong>{formatted_date}</strong>에 <strong>{author}</strong> 님이 업데이트한 버전을 복원하시겠습니까?",
   "The component has been restored!": "구성 요소가 복원되었습니다!",
-  "In order to install the {appName} app, first select the\n            space where the app will be installed.": "{appName} 앱을 설치하려면 먼저\n            앱이 설치될 공간을 선택하십시오.",
   "Install App": "앱 설치",
   "This app could not be found.": "이 앱을 찾을 수 없습니다.",
   "Space Region": "공간 영역",
@@ -3739,5 +3738,14 @@
   "Update Bookmark": "",
   "Close Sidebar": "",
   "Anchor ID: {id}": "",
-  "Remove anchor": ""
+  "Remove anchor": "",
+  "Invalid filename. The file has unexpected dots in the name \"{name}\", please remove them and try again.": "",
+  "In order to install the {appName} app, first select the space where the app will be installed.": "",
+  "Organization": "",
+  "Partner": "",
+  "Starred Spaces": "",
+  "Workflow stages reordered successfully": "",
+  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "",
+  "Unsubscribe": "",
+  "Contact Support": ""
 }

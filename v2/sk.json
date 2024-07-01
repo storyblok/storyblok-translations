@@ -1859,7 +1859,6 @@
   "Restore version": "Obnovenie verzie",
   "Are you sure you want to restore version from <strong>{formatted_date}</strong> updated by <strong>{author}</strong>?": "Ste si istí, že chcete obnoviť verziu z <strong>{formatted_date}</strong> , ktorú aktualizoval <strong>{author}</strong>?",
   "The component has been restored!": "Komponent bol obnovený!",
-  "In order to install the {appName} app, first select the\n            space where the app will be installed.": "Ak chcete nainštalovať aplikáciu {appName}, najprv zvoľte\n            priestor, kde bude aplikácia nainštalovaná.",
   "Install App": "Inštalovať aplikáciu",
   "This app could not be found.": "Túto aplikáciu sa nepodarilo nájsť.",
   "Space Region": "Oblasť priestoru",
@@ -3739,5 +3738,14 @@
   "Update Bookmark": "",
   "Close Sidebar": "",
   "Anchor ID: {id}": "",
-  "Remove anchor": ""
+  "Remove anchor": "",
+  "Invalid filename. The file has unexpected dots in the name \"{name}\", please remove them and try again.": "",
+  "In order to install the {appName} app, first select the space where the app will be installed.": "",
+  "Organization": "Organizácia",
+  "Partner": "",
+  "Starred Spaces": "",
+  "Workflow stages reordered successfully": "",
+  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "",
+  "Unsubscribe": "",
+  "Contact Support": ""
 }

@@ -1859,7 +1859,6 @@
   "Restore version": "Восстановить версию",
   "Are you sure you want to restore version from <strong>{formatted_date}</strong> updated by <strong>{author}</strong>?": "Вы действительно хотите восстановить версию от <strong>{formatted_date}</strong>, которую обновил(-а) <strong>{author}</strong>?",
   "The component has been restored!": "Этот компонент восстановлен!",
-  "In order to install the {appName} app, first select the\n            space where the app will be installed.": "Чтобы установить приложение {appName}, сначала выберите\n            пространство, где приложение будет устанавливаться.",
   "Install App": "Установить приложение",
   "This app could not be found.": "Не удалось найти приложение.",
   "Space Region": "Регион Пространства",
@@ -3739,5 +3738,14 @@
   "Update Bookmark": "",
   "Close Sidebar": "",
   "Anchor ID: {id}": "",
-  "Remove anchor": ""
+  "Remove anchor": "",
+  "Invalid filename. The file has unexpected dots in the name \"{name}\", please remove them and try again.": "",
+  "In order to install the {appName} app, first select the space where the app will be installed.": "",
+  "Organization": "Организация",
+  "Partner": "",
+  "Starred Spaces": "",
+  "Workflow stages reordered successfully": "",
+  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "",
+  "Unsubscribe": "",
+  "Contact Support": ""
 }

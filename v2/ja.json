@@ -1859,7 +1859,6 @@
   "Restore version": "バージョンの復元",
   "Are you sure you want to restore version from <strong>{formatted_date}</strong> updated by <strong>{author}</strong>?": "<strong>{formatted_date}</strong> (<strong>{author}</strong>が更新)からバージョンを復元しますか?\n",
   "The component has been restored!": "コンポーネントが復元されました。",
-  "In order to install the {appName} app, first select the\n            space where the app will be installed.": "{appName}アプリをインストールするには、まずアプリをインストールするスペースを選択します\n            。",
   "Install App": "アプリのインストール",
   "This app could not be found.": "このアプリは見つかりませんでした。",
   "Space Region": "スペースリージョン",
@@ -3739,5 +3738,14 @@
   "Update Bookmark": "",
   "Close Sidebar": "",
   "Anchor ID: {id}": "",
-  "Remove anchor": ""
+  "Remove anchor": "",
+  "Invalid filename. The file has unexpected dots in the name \"{name}\", please remove them and try again.": "",
+  "In order to install the {appName} app, first select the space where the app will be installed.": "",
+  "Organization": "組織",
+  "Partner": "",
+  "Starred Spaces": "",
+  "Workflow stages reordered successfully": "",
+  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "",
+  "Unsubscribe": "",
+  "Contact Support": ""
 }
