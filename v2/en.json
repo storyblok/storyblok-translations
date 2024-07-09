@@ -927,7 +927,6 @@
   "This folder doesn't have any content yet.": "This folder doesn't have any content yet.",
   "Resize images on the fly! With Storyblok's out-of-the-box image service, you can give your customers a high-quality, compelling brand experience at a speed they wouldn't expect, no matter what device or platform they're using.": "Resize images on the fly! With Storyblok's out-of-the-box image service, you can give your customers a high-quality, compelling brand experience at a speed they wouldn't expect, no matter what device or platform they're using.",
   "All your data will be wiped out immediately and you won't be able to get it back.": "All your data will be wiped out immediately and you won't be able to get it back.",
-  "Limitation: The feature doesn't work yet with the \"Releases\" app and duplicating a content item will not take over the published content in other languages but we are working hard to make these last adjustments.": "Limitation: The feature doesn't work yet with the \"Releases\" app and duplicating a content item will not take over the published content in other languages but we are working hard to make these last adjustments.",
   "You don't have pipelines yet": "You don't have pipelines yet",
   "View Activities": "View Activities",
   "Last deployment: {date}": "Last deployment: {date}",
@@ -3747,5 +3746,11 @@
   "Workflow stages reordered successfully": "Workflow stages reordered successfully",
   "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.",
   "Unsubscribe": "Unsubscribe",
-  "Contact Support": "Contact Support"
+  "Contact Support": "Contact Support",
+  "To complete the installation of Shopify V2, select the space where the store will be linked.": "To complete the installation of Shopify V2, select the space where the store will be linked.",
+  "Installation successful": "Installation successful",
+  "Installation failed": "Installation failed",
+  "We encountered an issue while installing Shopify V2. Please visit the Shopify App Store and try the installation again.": "We encountered an issue while installing Shopify V2. Please visit the Shopify App Store and try the installation again.",
+  "Tag name should not exceed 20 characters": "Tag name should not exceed 20 characters",
+  "Limitation: The feature doesn't work yet with the 'Releases' app, and duplicating a content item will not transfer the published content in other languages. It is also not compatible with custom code containing underscores (_). However, we are working hard to make these final adjustments.": "Limitation: The feature doesn't work yet with the 'Releases' app, and duplicating a content item will not transfer the published content in other languages. It is also not compatible with custom code containing underscores (_). However, we are working hard to make these final adjustments."
 }
