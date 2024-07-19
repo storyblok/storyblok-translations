@@ -3765,5 +3765,16 @@
   "This name already exists.": "This name already exists.",
   "How to properly setup internazionalization in Storyblok": "How to properly setup internazionalization in Storyblok",
   "To avoid potential conflicts, we suggest using language codes with - instead of _. For example, {code1} and {code2}.": "To avoid potential conflicts, we suggest using language codes with - instead of _. For example, {code1} and {code2}.",
-  "For further information, see the {doc}.": "For further information, see the {doc}."
+  "For further information, see the {doc}.": "For further information, see the {doc}.",
+  "AI Complete": "AI Complete",
+  "AI Shorten": "AI Shorten",
+  "AI Extend": "AI Extend",
+  "AI Rephrase": "AI Rephrase",
+  "AI Summarize": "AI Summarize",
+  "AI Simplify": "AI Simplify",
+  "AI Tone": "AI Tone",
+  "AI Emoji": "AI Emoji",
+  "AI Translate": "AI Translate",
+  "AI TLDR": "AI TLDR",
+  "AI Spelling": "AI Spelling"
 }
