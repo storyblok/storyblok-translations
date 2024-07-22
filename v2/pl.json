@@ -3762,6 +3762,19 @@
   "Enable this option only if your plugin is using the Storyblok App Bridge.": "",
   "This code is considered equal to another existing one. Please, rename one.": "",
   "Index is not defined": "",
-  "To avoid any potential conflicts we suggest using language codes with - instead of _ for example {code1} and {code2}.": "",
-  "This name already exists.": ""
+  "This name already exists.": "",
+  "How to properly setup internazionalization in Storyblok": "",
+  "To avoid potential conflicts, we suggest using language codes with - instead of _. For example, {code1} and {code2}.": "",
+  "For further information, see the {doc}.": "",
+  "AI Complete": "",
+  "AI Shorten": "",
+  "AI Extend": "",
+  "AI Rephrase": "",
+  "AI Summarize": "",
+  "AI Simplify": "",
+  "AI Tone": "",
+  "AI Emoji": "",
+  "AI Translate": "",
+  "AI TLDR": "",
+  "AI Spelling": ""
 }
