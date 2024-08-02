@@ -3822,5 +3822,11 @@
   "For additional help, {contactUs} or chat with us on {discord}, {linkedin} or {twitter}": "For additional help, {contactUs} or chat with us on {discord}, {linkedin} or {twitter}",
   "{courseName} cover": "{courseName} cover",
   " This course takes approximately {time} to complete but may take {moreTime} depending on your existing knowledge and experience. {progressSaved}": " This course takes approximately {time} to complete but may take {moreTime} depending on your existing knowledge and experience. {progressSaved}",
-  "Internal Tag": "Internal Tag"
+  "Internal Tag": "Internal Tag",
+  "Confidentiality Disclaimer": "Confidentiality Disclaimer",
+  "If enabled, this message can't be blank.": "If enabled, this message can't be blank.",
+  "Confidentiality disclaimer": "Confidentiality disclaimer",
+  "Display the following confidentiality message as a modal to all organization users every time they log into the Storyblok application.": "Display the following confidentiality message as a modal to all organization users every time they log into the Storyblok application.",
+  "Custom message": "Custom message",
+  "No character remaining | {count} character remaining | {count} characters remaining": "No character remaining | {count} character remaining | {count} characters remaining"
 }
