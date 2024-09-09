@@ -221,7 +221,6 @@
   "Current plan": "Aktualny plan",
   "Location (default environment)": "Lokalizacja (środowisko domyślne)",
   "Mobile width in px": "Szerokość urządzenia mobilnego w pikselach",
-  "Tablet width in px": "Szerokość tabletu w pikselach",
   "Disable Visual Editor": "Wyłącz edytor wizualny",
   "Close": "Zamknij",
   "Choose webhook": "Wybierz webhook",
@@ -1113,7 +1112,6 @@
   "Added pipelines {amount}": "Dodane pipelines {amount}",
   "Remove preview URL": "Usuń adres URL podglądu",
   "Mobile width": "Szerokość urządzenia mobilnego",
-  "Tablet width": "Szerokość tabletu",
   "Content browser": "Przeglądarka treści",
   "Let's get started by opening our first story. Click on the home story.": "Zacznijmy od otwarcia naszej pierwszej historii. Kliknij historię główną.",
   "You can create new entries and folders by using this button.": "Za pomocą tego przycisku możesz tworzyć nowe wpisy i foldery.",
@@ -2044,7 +2042,6 @@
   "Please enter a name": "Proszę wpisać nazwę",
   "Please choose a file type": "Proszę wybrać typ pliku",
   "When enabled, all languages can be published individually by going to each content item, selecting the language, and clicking on the \"Publish\" button.\" However, the \"publish all\" button will also still be available.": "Po włączeniu wszystkie języki można publikować indywidualnie, przechodząc do każdego elementu treści, wybierając język i klikając przycisk „Opublikuj”. Przycisk „Opublikuj wszystko” będzie jednak nadal dostępny.",
-  "This will disable / enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "Spowoduje to wyłączenie/włączenie przykładowego podglądu w edytorze wizualnym, który jest dostępny podczas tworzenia demo space. Usuwa również baner informujący, że jest to demo space.",
   "Parent space ID": "ID nadrzędnej space",
   "Explore features": "Poznaj funkcje",
   "An error occurred, please try again later.": "Wystąpił błąd. Proszę spróbować później.",
@@ -3885,5 +3882,9 @@
   "Limited number of {feature} exceeded": "",
   "Lose access to {app}": "",
   "Custom number of users included": "",
-  "Custom limits for add. user seats": ""
+  "Custom limits for add. user seats": "",
+  "Only shows assets with more than 300MB usage": "",
+  "This will disable/enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "",
+  "Accessible Items": "",
+  "Accessible Items:": ""
 }

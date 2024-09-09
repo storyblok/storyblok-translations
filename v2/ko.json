@@ -221,7 +221,6 @@
   "Current plan": "현재 플랜",
   "Location (default environment)": "위치(기본 환경)",
   "Mobile width in px": "모바일 너비(px)",
-  "Tablet width in px": "태블릿 너비(px)",
   "Disable Visual Editor": "비주얼 편집기 비활성화",
   "Close": "닫기",
   "Choose webhook": "Webhook 선택",
@@ -1113,7 +1112,6 @@
   "Added pipelines {amount}": "추가된 파이프라인 {amount}",
   "Remove preview URL": "미리보기 URL 제거",
   "Mobile width": "모바일 너비",
-  "Tablet width": "Tablet 너비",
   "Content browser": "콘텐츠 브라우저",
   "Let's get started by opening our first story. Click on the home story.": "첫 번째 스토리부터 시작해 봅시다. 홈 스토리를 클릭하십시오.",
   "You can create new entries and folders by using this button.": "이 버튼을 사용하여 새 항목과 폴더를 만들 수 있습니다.",
@@ -2044,7 +2042,6 @@
   "Please enter a name": "이름을 입력하십시오.",
   "Please choose a file type": "파일 유형을 선택하십시오.",
   "When enabled, all languages can be published individually by going to each content item, selecting the language, and clicking on the \"Publish\" button.\" However, the \"publish all\" button will also still be available.": "사용하도록 설정된 경우 각 콘텐츠 항목으로 이동하고 언어를 선택한 후 \"게시\" 버튼을 클릭하여 모든 언어를 개별적으로 게시할 수 있습니다. 단, \"모두 게시\" 버튼도 계속 사용할 수 있습니다.",
-  "This will disable / enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "이렇게 하면 데모 공간을 만들 때 제공되는 비주얼 편집기에서 예제 미리보기가 비활성화 / 활성화됩니다. 데모 공간임을 알리는 배너도 제거합니다.",
   "Parent space ID": "상위 공간 ID",
   "Explore features": "기능 살펴보기",
   "An error occurred, please try again later.": "오류가 발생했습니다. 나중에 다시 시도하십시오.",
@@ -3885,5 +3882,9 @@
   "Limited number of {feature} exceeded": "",
   "Lose access to {app}": "",
   "Custom number of users included": "",
-  "Custom limits for add. user seats": ""
+  "Custom limits for add. user seats": "",
+  "Only shows assets with more than 300MB usage": "",
+  "This will disable/enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "",
+  "Accessible Items": "",
+  "Accessible Items:": ""
 }

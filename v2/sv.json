@@ -221,7 +221,6 @@
   "Current plan": "Aktuell plan",
   "Location (default environment)": "Plats (defaultmiljö) ",
   "Mobile width in px": "Mobilbredd i px",
-  "Tablet width in px": "Tablet bredd i px",
   "Disable Visual Editor": "Avaktivera Visuell editor",
   "Close": "Stäng",
   "Choose webhook": "Välj webhook",
@@ -1113,7 +1112,6 @@
   "Added pipelines {amount}": "Lägg till pipeliner {amount}",
   "Remove preview URL": "Ta bort förhandsgranskning webbsida",
   "Mobile width": "Mobilbredd",
-  "Tablet width": "Tablet bredd",
   "Content browser": "Innehållswebbläsare",
   "Let's get started by opening our first story. Click on the home story.": "Låt oss sätta igång genom att öppna den första berättelsen. Klicka på hem berättelse.",
   "You can create new entries and folders by using this button.": "Du kan skapa nya inmatningar och mappar genom att använda den här knappen.",
@@ -2044,7 +2042,6 @@
   "Please enter a name": "Ange ett namn",
   "Please choose a file type": "Välj en filtyp",
   "When enabled, all languages can be published individually by going to each content item, selecting the language, and clicking on the \"Publish\" button.\" However, the \"publish all\" button will also still be available.": "När den här funktionen är aktiverad kan alla språk publiceras individuellt genom att man går till respektive innehållspost, väljer önskat språk och klickar på ”Publicera”. Observera dock att knappen ”Publicera alla” också förblir tillgänglig.",
-  "This will disable / enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "Det här aktiverar/inaktiverar förhandsgranskningen av exempel i den visuella redigeraren som du har när du skapar ett demoutrymme. Dessutom tas banderollen bort som informerar dig om att det är ett demoutrymme.",
   "Parent space ID": "Id för överordnat utrymme",
   "Explore features": "Utforska funktioner",
   "An error occurred, please try again later.": "Ett fel har inträffat, försök igen senare.",
@@ -3885,5 +3882,9 @@
   "Limited number of {feature} exceeded": "",
   "Lose access to {app}": "",
   "Custom number of users included": "",
-  "Custom limits for add. user seats": ""
+  "Custom limits for add. user seats": "",
+  "Only shows assets with more than 300MB usage": "",
+  "This will disable/enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "",
+  "Accessible Items": "",
+  "Accessible Items:": ""
 }

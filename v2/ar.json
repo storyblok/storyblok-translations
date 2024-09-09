@@ -221,7 +221,6 @@
   "Current plan": "الخطة الحالية لأسعار الاشتراك: \"الاشتراك\" الحالي",
   "Location (default environment)": "الموقع (مكان افتراضي)",
   "Mobile width in px": "عرض الهاتف المحمول بالبكسل",
-  "Tablet width in px": "عرض الكومبيوتر اللوحي بالبكسل",
   "Disable Visual Editor": "تعطيل المحرر المرئي للمحتوى",
   "Close": "غلق",
   "Choose webhook": "اختر webhook",
@@ -1113,7 +1112,6 @@
   "Added pipelines {amount}": "{amount} Pipelines المضافة",
   "Remove preview URL": "إزالة عنوان URL المعاينة",
   "Mobile width": "عرض الهاتف المحمول",
-  "Tablet width": "عرض الكومبيوتر اللوحي",
   "Content browser": "متصفح المحتوى",
   "Let's get started by opening our first story. Click on the home story.": "دعنا نبدأ فتح مجموعتنا النصية الأولى. انقر على المجموعة النصية للصفحة الرئيسية.",
   "You can create new entries and folders by using this button.": "يمكنك إنشاء إدخالات ومجلدات جديدة باستخدام هذا الزر.",
@@ -2044,7 +2042,6 @@
   "Please enter a name": "",
   "Please choose a file type": "",
   "When enabled, all languages can be published individually by going to each content item, selecting the language, and clicking on the \"Publish\" button.\" However, the \"publish all\" button will also still be available.": "",
-  "This will disable / enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "",
   "Parent space ID": "",
   "Explore features": "",
   "An error occurred, please try again later.": "",
@@ -3885,5 +3882,9 @@
   "Limited number of {feature} exceeded": "",
   "Lose access to {app}": "",
   "Custom number of users included": "",
-  "Custom limits for add. user seats": ""
+  "Custom limits for add. user seats": "",
+  "Only shows assets with more than 300MB usage": "",
+  "This will disable/enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "",
+  "Accessible Items": "",
+  "Accessible Items:": ""
 }

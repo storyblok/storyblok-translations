@@ -221,7 +221,6 @@
   "Current plan": "当前计划",
   "Location (default environment)": "位置（默认环境）",
   "Mobile width in px": "手机宽度（以像素计）",
-  "Tablet width in px": "平板宽度（以像素计）",
   "Disable Visual Editor": "禁用可视化编辑器",
   "Close": "关闭",
   "Choose webhook": "选择 webhook",
@@ -1113,7 +1112,6 @@
   "Added pipelines {amount}": "添加了 Pipeline {amount}",
   "Remove preview URL": "移除预览 URL",
   "Mobile width": "手机宽度",
-  "Tablet width": "平板宽度",
   "Content browser": "内容浏览器",
   "Let's get started by opening our first story. Click on the home story.": "让我们首先打开我们第一个故事看看。 点击首页故事。",
   "You can create new entries and folders by using this button.": "你可以用这个按钮创建新的条目和文件夹。",
@@ -2044,7 +2042,6 @@
   "Please enter a name": "请输入名字",
   "Please choose a file type": "请选择文件类型",
   "When enabled, all languages can be published individually by going to each content item, selecting the language, and clicking on the \"Publish\" button.\" However, the \"publish all\" button will also still be available.": "启用该功能后，可以通过进入每个内容项目、选择语言并单击【发布】按钮来单独发布所有语言。不过，【全部发布】按钮仍然可用。",
-  "This will disable / enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "这将禁用/启用可视化编辑器中的示例预览，您在创建演示空间时可以使用该功能。 它还会删除提示您这是演示空间的横幅。",
   "Parent space ID": "父空间 ID",
   "Explore features": "探索功能",
   "An error occurred, please try again later.": "发生错误，请稍后再试。",
@@ -3885,5 +3882,9 @@
   "Limited number of {feature} exceeded": "",
   "Lose access to {app}": "",
   "Custom number of users included": "",
-  "Custom limits for add. user seats": ""
+  "Custom limits for add. user seats": "",
+  "Only shows assets with more than 300MB usage": "",
+  "This will disable/enable the example preview in the visual editor, which you have when creating a demo space. It also removes the banner that notifies you that it is a demo space.": "",
+  "Accessible Items": "",
+  "Accessible Items:": ""
 }
