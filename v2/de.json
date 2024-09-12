@@ -782,7 +782,7 @@
   "Datasource entries uploaded": "Die Datenquelleneinträge wurden hochgeladen",
   "The new space will be created with this name. Only content stories and blocks will be copied to the new space. Assets and users will not be copied. Assets will be referenced from the original space.": "Der neue Space wird mit diesem Namen erstellt. Es werden nur Content-Storys und -Blöcke in den neuen Space kopiert. Assets und Benutzer werden nicht kopiert. Assets werden aus dem ursprünglichen Space referenziert.",
   "Please provide a space name": "Bitte geben Sie einen Space-Namen an",
-  "Active": "Assets",
+  "Active": "Aktiviert",
   "Me": "Mich",
   "Select...": "Auswählen …",
   "Content type values": "Werte des Content-Typs",
