@@ -3321,7 +3321,6 @@
   "AI Tokens Remaining": "AI Tokens Remaining",
   "Idea/Story": "Idea/Story",
   "No settings page found for the App. It may not be configured.": "No settings page found for the App. It may not be configured.",
-  "Error issuing plugin session token token.": "Error issuing plugin session token token.",
   "in {location}": "in {location}",
   "You don't have the permission to upload or move files to this folder": "You don't have the permission to upload or move files to this folder",
   "e.g. Icons, Videos, Landing pages": "e.g. Icons, Videos, Landing pages",
@@ -3517,8 +3516,6 @@
   "Partner": "Partner",
   "Starred Spaces": "Starred Spaces",
   "Workflow stages reordered successfully": "Workflow stages reordered successfully",
-  "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.": "The space has an ongoing subscription. In order to link this space to your organization please unsubscribe {spaceName} from its current plan and try again.",
-  "Unsubscribe": "Unsubscribe",
   "Contact Support": "Contact Support",
   "To complete the installation of Shopify V2, select the space where the store will be linked.": "To complete the installation of Shopify V2, select the space where the store will be linked.",
   "Installation successful": "Installation successful",
@@ -3908,5 +3905,6 @@
   "Lock visual editor from editing when in this stage": "Lock visual editor from editing when in this stage",
   "Users will not be able to edit the content when in this workflow stage. To edit the content, users will have to move it to another stage which is unlocked.": "Users will not be able to edit the content when in this workflow stage. To edit the content, users will have to move it to another stage which is unlocked.",
   "{userName} locked {element}": "{userName} locked {element}",
-  "{userName} unlocked {element}": "{userName} unlocked {element}"
+  "{userName} unlocked {element}": "{userName} unlocked {element}",
+  "The space has an ongoing subscription. In order to link this space to your organization, please contact your dedicated Customer Success Manager to unsubscribe {spaceName} from its current plan and try again.": "The space has an ongoing subscription. In order to link this space to your organization, please contact your dedicated Customer Success Manager to unsubscribe {spaceName} from its current plan and try again."
 }
