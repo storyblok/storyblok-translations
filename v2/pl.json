@@ -3915,5 +3915,14 @@
   "Are you sure you want to apply this tag?": "",
   "Yes, apply": "",
   "Your 14-days trial will end in {n} days. Your trial gives you access to all paid features like Scheduling & Releases, Datasources, Asset folders, and more.": "",
-  "Unknown": ""
+  "Unknown": "",
+  "True": "",
+  "False": "",
+  "A timeout occurred! This story seems to be too long. To avoid waiting, you can use the normal clone action and translate field by field using the field level translation.": "",
+  "A timeout occurred! This story seems to be too long. To avoid waiting, you can use the normal overwrite action and translate field by field using the field level translation.": "",
+  "A timeout occurred! This story seems to be too long. To avoid waiting, you can also translate individual fields.": "",
+  "Character limit reached": "Osiągnięto limit znaków",
+  "{characterAmount} character remaining | {characterAmount} characters remaining": "",
+  "{characterAmount} character above the limit—please shorten the text to no more than {limit} character | {characterAmount} characters above the limit—please shorten the text to no more than {limit} characters": "",
+  "exceeding its character limit": ""
 }
