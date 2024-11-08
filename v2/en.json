@@ -3927,5 +3927,7 @@
   "Disable editing name and slug of Stories or Folder for non-selected languages.": "Disable editing name and slug of Stories or Folder for non-selected languages.",
   "This role will not be able to change (translate) the name and the slug in the configuration of Stories and Folders.": "This role will not be able to change (translate) the name and the slug in the configuration of Stories and Folders.",
   "Enables defining the Story/Folder name and slug in the default language during creation.": "Enables defining the Story/Folder name and slug in the default language during creation.",
-  "Story status": "Story status"
+  "Story status": "Story status",
+  "Creating content is not allowed for this workflow stage": "Creating content is not allowed for this workflow stage",
+  "Close dialog": "Close dialog"
 }
