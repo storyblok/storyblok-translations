@@ -1520,7 +1520,6 @@
   "by {name}": "작성자: {name}",
   "ID/Slug": "ID/슬러그",
   "Import/Export": "가져오기/내보내기",
-  "Release date & time (optional)": "릴리스 날짜 및 시간(선택 사항)",
   "Remove collaborator": "공동 작업자 제거",
   "Are you sure you want to delete the items listed below?": "아래 나열된 항목을 삭제하시겠습니까?",
   "Are you sure you want to remove the space <span>{spaceName}</span> from the organization?": "조직에서 공간 <span>{spaceName}</span>을(를) 제거하시겠습니까?",
@@ -1989,7 +1988,6 @@
   "Notify users": "사용자에게 알림",
   "Add team members...": "팀 멤버 추가...",
   "Please select at least one user to be notified": "알림을 받을 사용자를 한 명 이상 선택하십시오.",
-  "{num} team member | {num} team members": "{num}명의 팀 멤버 | {num}명의 팀 멤버",
   "<span class=\"text-blue\">Scheduled: </span>{releaseAt}": "<span class=\"text-blue\">예정: </span>{releaseAt}",
   "One last thing": "마지막 한 가지",
   "Help us tailor your Storyblok experience": "Storyblok 환경을 맞춤화할 수 있도록 도와주십시오.",
@@ -3644,7 +3642,6 @@
   "Resolved ({n})": "",
   "Open ({n})": "",
   "Size: {tableSize}": "",
-  "Edit field: {fieldName}": "",
   "Date & Time": "",
   "1 update by {author} | {n} updates by {author}": "",
   "In order to list the activities within your organization, use the filter to select a space.": "",
@@ -3719,7 +3716,6 @@
   "Generate New Translation": "",
   "Add Translated Content": "",
   "AI-Powered Feature Terms": "",
-  "Open in Google Translate": "",
   "Discard AI translation updates": "",
   "Do you want to translate the text-based fields using AI?": "",
   "Do you want to create a clone and translate all the text-based fields using AI?": "",
@@ -3933,5 +3929,8 @@
   "{minAmount} option is required | {minAmount} options are required": "",
   "Option limit reached": "",
   "{amount} option remaining | {amount} options remaining": "",
-  "{amount} option above the limit—please reduce the options to no more than {limit} | {amount} options above the limit—please reduce the options to no more than {limit}": ""
+  "{amount} option above the limit—please reduce the options to no more than {limit} | {amount} options above the limit—please reduce the options to no more than {limit}": "",
+  "You are editing a Story in a Release. You can only change workflow stages from the current version of the story.": "",
+  "Release date & time": "",
+  "{n} team member | {n} team members": ""
 }

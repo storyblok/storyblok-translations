@@ -1520,7 +1520,6 @@
   "by {name}": "von {name}",
   "ID/Slug": "ID/Slug",
   "Import/Export": "Importieren/Exportieren",
-  "Release date & time (optional)": "Release-Datum & Zeit (optional)",
   "Remove collaborator": "Mitwirkenden entfernen",
   "Are you sure you want to delete the items listed below?": "Sind Sie sicher, dass Sie die unten aufgeführten Elemente löschen möchten?",
   "Are you sure you want to remove the space <span>{spaceName}</span> from the organization?": "Sind Sie sicher, dass Sie den Space <span>{spaceName}</span> aus der Organisation entfernen möchten?",
@@ -1989,7 +1988,6 @@
   "Notify users": "Benutzer benachrichtigen",
   "Add team members...": "Teammitglieder hinzufügen...",
   "Please select at least one user to be notified": "Bitte wählen Sie mindestens einen Benutzer aus, der benachrichtigt werden soll",
-  "{num} team member | {num} team members": "{num} teammitglied | {num} Teammitglieder",
   "<span class=\"text-blue\">Scheduled: </span>{releaseAt}": "<span class=\"text-blue\">Scheduled: </span>{releaseAt}",
   "One last thing": "Eine letzte Sache",
   "Help us tailor your Storyblok experience": "Helfen Sie uns, Ihr Storyblok-Erlebnis zu gestalten",
@@ -3644,7 +3642,6 @@
   "Resolved ({n})": "",
   "Open ({n})": "",
   "Size: {tableSize}": "",
-  "Edit field: {fieldName}": "",
   "Date & Time": "",
   "1 update by {author} | {n} updates by {author}": "",
   "In order to list the activities within your organization, use the filter to select a space.": "",
@@ -3719,7 +3716,6 @@
   "Generate New Translation": "",
   "Add Translated Content": "",
   "AI-Powered Feature Terms": "",
-  "Open in Google Translate": "",
   "Discard AI translation updates": "",
   "Do you want to translate the text-based fields using AI?": "",
   "Do you want to create a clone and translate all the text-based fields using AI?": "",
@@ -3933,5 +3929,8 @@
   "{minAmount} option is required | {minAmount} options are required": "",
   "Option limit reached": "",
   "{amount} option remaining | {amount} options remaining": "",
-  "{amount} option above the limit—please reduce the options to no more than {limit} | {amount} options above the limit—please reduce the options to no more than {limit}": ""
+  "{amount} option above the limit—please reduce the options to no more than {limit} | {amount} options above the limit—please reduce the options to no more than {limit}": "",
+  "You are editing a Story in a Release. You can only change workflow stages from the current version of the story.": "",
+  "Release date & time": "",
+  "{n} team member | {n} team members": ""
 }
