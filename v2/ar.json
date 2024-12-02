@@ -3932,5 +3932,6 @@
   "{amount} option above the limit—please reduce the options to no more than {limit} | {amount} options above the limit—please reduce the options to no more than {limit}": "",
   "You are editing a Story in a Release. You can only change workflow stages from the current version of the story.": "",
   "Release date & time": "",
-  "{n} team member | {n} team members": ""
+  "{n} team member | {n} team members": "",
+  "Unassigns users and roles when the content is published": ""
 }
