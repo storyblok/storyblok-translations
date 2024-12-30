@@ -2202,11 +2202,6 @@
   "Open in new tab": "",
   "Activity Details": "Aktivitätsdetails",
   "Filter:": "",
-  "Activity type:": "",
-  "Select": "Auswählen",
-  "User:": "",
-  "From:": "",
-  "To:": "",
   "View history of changes in your Space.": "",
   "You are not allowed to access this app. Please contact your space admin.": "",
   "Last deployment:": "",
@@ -2298,7 +2293,6 @@
   "Edit token name": "",
   "Are you sure you want to delete the token: <span>{key}</span>": "",
   "Upgrade Plan": "",
-  "Space:": "",
   "View history of changes in your Organization.": "",
   "Select a Space to view activities": "",
   "No activities found": "",
@@ -3966,5 +3960,9 @@
   "Workflow Deadline": "",
   "{userName} added a due date for {element}": "",
   "{userName} updated the due date of {element}": "",
-  "{userName} removed the due date of {element}": ""
+  "{userName} removed the due date of {element}": "",
+  "Select Space:": "",
+  "Select Activity types:": "",
+  "Select User(s)": "",
+  "Delete Asset Custom Metadata": ""
 }

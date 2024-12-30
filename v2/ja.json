@@ -2202,11 +2202,6 @@
   "Open in new tab": "新しいタブで開く",
   "Activity Details": "アクティビティの詳細",
   "Filter:": "フィルター:",
-  "Activity type:": "アクティビティタイプ:",
-  "Select": "選択する",
-  "User:": "ユーザー:",
-  "From:": "From:",
-  "To:": "To:",
   "View history of changes in your Space.": "スペースの変更履歴を表示します。",
   "You are not allowed to access this app. Please contact your space admin.": "このアプリにはアクセスできません。 スペース管理者にお問い合わせください。",
   "Last deployment:": "前回デプロイ:",
@@ -2298,7 +2293,6 @@
   "Edit token name": "",
   "Are you sure you want to delete the token: <span>{key}</span>": "",
   "Upgrade Plan": "",
-  "Space:": "",
   "View history of changes in your Organization.": "",
   "Select a Space to view activities": "",
   "No activities found": "",
@@ -3966,5 +3960,9 @@
   "Workflow Deadline": "",
   "{userName} added a due date for {element}": "",
   "{userName} updated the due date of {element}": "",
-  "{userName} removed the due date of {element}": ""
+  "{userName} removed the due date of {element}": "",
+  "Select Space:": "",
+  "Select Activity types:": "",
+  "Select User(s)": "",
+  "Delete Asset Custom Metadata": ""
 }
