@@ -1093,7 +1093,6 @@
   " Sign in to Storyblok": " Connectez-vous à Storyblok",
   "Resend": "Renvoyer",
   "New code sent": "Nouveau code envoyé",
-  "The verification link expires after 2 weeks. If you don't verify your email within 2 weeks, you can request another email verification link.": "Le lien de vérification expire après 2 semaines. Si vous ne vérifiez pas votre adresse e-mail dans les 2 semaines, vous pouvez demander un autre lien de vérification.",
   "Resend confirmation": "Confirmation de renvoi",
   "Enter your email address": "Entrez votre adresse e-mail",
   "Back to login": "Retour à la connexion",
@@ -4004,8 +4003,6 @@
   "Choose item": "",
   "Open in a new tab": "",
   "Stack view": "",
-  "Add Table": "",
-  "Add a Table": "",
   "Insert column before": "",
   "Insert column after": "",
   "Insert row above": "",
@@ -4043,5 +4040,6 @@
   "Update Password Policy": "",
   "immediately": "",
   "Members will be {strong} logged out and prompted to update their password. Please be certain.": "",
-  "At least {length} characters": ""
+  "At least {length} characters": "",
+  "Cell Color": ""
 }

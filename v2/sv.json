@@ -1093,7 +1093,6 @@
   " Sign in to Storyblok": " Logga in på Storyblok",
   "Resend": "Skicka på nytt",
   "New code sent": "Ny kod skickad",
-  "The verification link expires after 2 weeks. If you don't verify your email within 2 weeks, you can request another email verification link.": "Verifieringslänken går ut efter 2 veckor. Om du inte verifierar din e-post inom 2 veckor, kan du begära en ny verifieringsmejllänk.",
   "Resend confirmation": "Skicka bekräftelse på nytt",
   "Enter your email address": "Ange din e-postadress",
   "Back to login": "Tillbaka till inloggning",
@@ -4004,8 +4003,6 @@
   "Choose item": "",
   "Open in a new tab": "",
   "Stack view": "",
-  "Add Table": "",
-  "Add a Table": "",
   "Insert column before": "",
   "Insert column after": "",
   "Insert row above": "",
@@ -4043,5 +4040,6 @@
   "Update Password Policy": "",
   "immediately": "",
   "Members will be {strong} logged out and prompted to update their password. Please be certain.": "",
-  "At least {length} characters": ""
+  "At least {length} characters": "",
+  "Cell Color": ""
 }
