@@ -1922,7 +1922,6 @@
   "Notify users": "Notify users",
   "Add team members...": "Add team members...",
   "Please select at least one user to be notified": "Please select at least one user to be notified",
-  "<span class=\"text-blue\">Scheduled: </span>{releaseAt}": "<span class=\"text-blue\">Scheduled: </span>{releaseAt}",
   "One last thing": "One last thing",
   "Help us tailor your Storyblok experience": "Help us tailor your Storyblok experience",
   "What best describes what you do?": "What best describes what you do?",
@@ -3734,7 +3733,6 @@
   "1 asset selected | {n} assets selected": "1 asset selected | {n} assets selected",
   "Add tag": "Add tag",
   "Merge tags": "Merge tags",
-  "1 / 1 asset | {tagInAssets} / {n} assets": "1 / 1 asset | {tagInAssets} / {n} assets",
   "Clear tag from asset | Clear tag from assets": "Clear tag from asset | Clear tag from assets",
   "Clear \"{tagName}\" tag from 1 asset | Clear \"{tagName}\" tag from {n} assets": "Clear \"{tagName}\" tag from 1 asset | Clear \"{tagName}\" tag from {n} assets",
   "Are you sure you want to clear this tag?": "Are you sure you want to clear this tag?",
@@ -4049,5 +4047,11 @@
   "Minimize": "Minimize",
   "With this role, all the content will be hidden other than the ones that the users were given access to (see Content tab). In order to display the non-allowed content with read only access, you should also mark the 'Allow reading content' permission.": "With this role, all the content will be hidden other than the ones that the users were given access to (see Content tab). In order to display the non-allowed content with read only access, you should also mark the 'Allow reading content' permission.",
   "With this role, all the folders will be hidden other than the ones that the users were given access to (see Content tab). In order to display the non-allowed folders with read only access, you should also mark the 'Allow reading content' permission.": "With this role, all the folders will be hidden other than the ones that the users were given access to (see Content tab). In order to display the non-allowed folders with read only access, you should also mark the 'Allow reading content' permission.",
-  "Allow users full access (view and edit) to the Concept Room": "Allow users full access (view and edit) to the Concept Room"
+  "Allow users full access (view and edit) to the Concept Room": "Allow users full access (view and edit) to the Concept Room",
+  "Choose existing": "Choose existing",
+  "Open field": "Open field",
+  "Error publishing the story {name}": "Error publishing the story {name}",
+  "Choose a date and time": "Choose a date and time",
+  "Search or add new": "Search or add new",
+  "1/1 asset | {tagInAssets}/{n} assets": "1/1 asset | {tagInAssets}/{n} assets"
 }
