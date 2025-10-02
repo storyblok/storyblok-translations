@@ -4,3 +4,4 @@
 *.suo
 *.ntvs*
 *.njsproj
+.DS_Store
