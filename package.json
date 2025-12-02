@@ -1,0 +1,10 @@
+{
+  "name": "@storyblok/translations",
+  "exports": {
+    "./*": "./*"
+  },
+  "files": [
+    "v1",
+    "v2"
+  ]
+}
