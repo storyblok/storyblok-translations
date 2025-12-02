@@ -1,0 +1,12 @@
+{
+  "name": "@storyblok/translations",
+  "version": "0.0.0",
+  "private": true,
+  "exports": {
+    "./*": "./*"
+  },
+  "files": [
+    "v1",
+    "v2"
+  ]
+}
