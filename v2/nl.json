@@ -4572,7 +4572,7 @@
   "Use default": "Gebruik standaard",
   "Use email": "",
   "Use the current story to generate a duplicate in the {name}": "",
-  "Use this URL to open a preview/staging deployment of your extension. To open the preview within Storyblok, append the search parameter ?dev=1 to Storyblok's URL. For example: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1.": "Gebruik deze URL om een preview/staging implementatie van uw extensie te openen. Om de preview binnen Storyblok te openen, voegt u de zoekparameter ?dev=1 toe aan de URL van Storyblok. Bijvoorbeeld: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1.",
+  "Use this URL to open a preview/staging deployment of your extension. To open the preview within Storyblok, append the search parameter ?dev=1 to Storyblok's URL. For example: app.storyblok.com/#/me/spaces/1/apps/1/detail?dev=1.": "Gebruik deze URL om een preview/staging implementatie van uw extensie te openen. Om de preview binnen Storyblok te openen, voegt u de zoekparameter ?dev=1 toe aan de URL van Storyblok. Bijvoorbeeld: app.storyblok.com/#/me/spaces/1/apps/1/detail?dev=1.",
   "Use this markdown field to add any extra context, edge cases, or temporary notes that help the AI get things just right.": "",
   "Use your Amazon S3 bucket to create backups.": "Gebruik uw Amazon S3-bucket om back-ups te maken.",
   "Use your authenticator app": "",

@@ -4572,7 +4572,7 @@
   "Use default": "기본값 사용",
   "Use email": "",
   "Use the current story to generate a duplicate in the {name}": "",
-  "Use this URL to open a preview/staging deployment of your extension. To open the preview within Storyblok, append the search parameter ?dev=1 to Storyblok's URL. For example: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1.": "이 URL을 사용하여 확장 프로그램의 미리보기/스테이징 배포를 엽니다. Storyblok 내에서 미리보기를 열려면 검색 매개변수 ?dev=1을 Storyblok의 URL에 추가하십시오. 예: app.storyblok.com/#!/me/spaces/1/apps/1/detail?dev=1.",
+  "Use this URL to open a preview/staging deployment of your extension. To open the preview within Storyblok, append the search parameter ?dev=1 to Storyblok's URL. For example: app.storyblok.com/#/me/spaces/1/apps/1/detail?dev=1.": "이 URL을 사용하여 확장 프로그램의 미리보기/스테이징 배포를 엽니다. Storyblok 내에서 미리보기를 열려면 검색 매개변수 ?dev=1을 Storyblok의 URL에 추가하십시오. 예: app.storyblok.com/#/me/spaces/1/apps/1/detail?dev=1.",
   "Use this markdown field to add any extra context, edge cases, or temporary notes that help the AI get things just right.": "",
   "Use your Amazon S3 bucket to create backups.": "Amazon S3 버킷을 사용하여 백업을 만듭니다.",
   "Use your authenticator app": "",
