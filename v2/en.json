@@ -4735,7 +4735,7 @@
   "We recommend installing the Dimensions app to create links between stories in different languages": "We recommend installing the Dimensions app to create links between stories in different languages",
   "We recommend that you do not store sensitive data in Space-level Settings.": "We recommend that you do not store sensitive data in Space-level Settings.",
   "We recommend you use - in your language codes to avoid duplicate languages codes being created using the _ for example {dashedCode} instead of {underscoredCode}": "We recommend you use - in your language codes to avoid duplicate languages codes being created using the _ for example {dashedCode} instead of {underscoredCode}",
-  "We sent a verification code to your {email}. You have 3 minutes to enter the code from the {email} in the field below.": "We sent a verification code to your {email}. You have 3 minutes to enter the code from the {email} in the field below.",
+  "We sent a verification code to your {email}. You have 10 minutes to enter the code from the {email} in the field below.": "We sent a verification code to your {email}. You have 10 minutes to enter the code from the {email} in the field below.",
   "We sent a verification code to your {phone}. Enter the code from the {sms} in the field below.": "We sent a verification code to your {phone}. Enter the code from the {sms} in the field below.",
   "We use cookies and localStorage to provide the core functionalities of the application.": "We use cookies and localStorage to provide the core functionalities of the application.",
   "We will create a repository for the Blueprint with the framework of your choice": "We will create a repository for the Blueprint with the framework of your choice",
